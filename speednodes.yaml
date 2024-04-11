@@ -6,7 +6,6 @@ proxies:
   - {name: CA_speednode_0002, server: 158.51.123.111, port: 443, type: vmess, alterId: 0, cipher: auto, country: CA, h2-opts: {}, http-opts: {}, network: ws, skip-cert-verify: true, tls: true, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, ws-opts: {path: /linkvws}, delay: 1013}
   - {name: CA_speednode_0003, server: 23.162.200.227, port: 443, type: vmess, country: 🇨🇦CA, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, network: ws, servername: 23.162.200.227, http-opts: {}, h2-opts: {}, tls: true, skip-cert-verify: true, ws-opts: {path: /linkvws, headers: {HOST: 23.162.200.227}}, delay: 1733}
   - {name: CN_speednode_0004, server: db.quanstring.top, port: 42107, type: ss, cipher: chacha20-ietf-poly1305, password: e50dd0c1-b1bc-4910-aa3e-7237d55043c1}
-  - {name: CN_speednode_0005, server: sg003.sfrae.net, port: 44209, type: ss, country: 🏁 ZZ, password: fade2b35-7872-442e-a54e-6ccf9b970476, cipher: aes-256-gcm, delay: 2974}
   - {name: CN_speednode_0006, server: sjc002.sfrae.net, port: 44214, type: ss, password: fade2b35-7872-442e-a54e-6ccf9b970476, cipher: aes-256-gcm, delay: 1446}
   - {name: CN_speednode_0007, server: 103.44.255.27, port: 443, type: vless, uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f, tls: true, servername: juzibaipiao.5112233.xyz, network: ws, ws-opts: {path: "/?ed=2048", headers: {host: juzibaipiao.5112233.xyz}}}
   - {name: CN_speednode_0008, server: 120.233.42.83, port: 20207, type: vmess, alterId: 0, cipher: auto, network: ws, skip-cert-verify: true, tls: false, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, ws-opts: {headers: {host: data-hk-v1.shwjfkw.cn}, path: /debian}}
@@ -198,7 +197,6 @@ proxy-groups:
   - CA_speednode_0002
   - CA_speednode_0003
   - CN_speednode_0004
-  - CN_speednode_0005
   - CN_speednode_0006
   - CN_speednode_0007
   - CN_speednode_0008
@@ -388,7 +386,6 @@ proxy-groups:
   - CA_speednode_0002
   - CA_speednode_0003
   - CN_speednode_0004
-  - CN_speednode_0005
   - CN_speednode_0006
   - CN_speednode_0007
   - CN_speednode_0008
