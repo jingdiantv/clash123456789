@@ -82,7 +82,6 @@ proxies:
   - {name: KR_speednode_0078, server: 140.238.19.251, port: 10261, type: vless, Inc. - 35: None, client-fingerprint: random, uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5, tls: true, tfo: false, servername: cfed.tgzdyz2.top, skip-cert-verify: true, network: ws, ws-opts: {path: TG@ZDYZ2, headers: {Host: cfed.tgzdyz2.top}}, udp: true, delay: 1042}
   - {name: KR_speednode_0079, server: 140.238.7.57, port: 9999, type: vless, client-fingerprint: chrome, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: true, tfo: false, skip-cert-verify: false, servername: a.ssll.gay, network: ws, ws-opts: {path: "Telegram🇨🇳 @WangCai2 /?ed=2048", headers: {Host: a.ssll.gay}}}
   - {name: KR_speednode_0080, server: 146.56.135.192, port: 16617, type: vless, Inc. - 36: None, client-fingerprint: random, uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5, tls: true, tfo: false, servername: cfed.tgzdyz2.top, skip-cert-verify: true, network: ws, ws-opts: {path: TG@ZDYZ2, headers: {Host: cfed.tgzdyz2.top}}, udp: true, delay: 1953}
-  - {name: KR_speednode_0081, server: 193.122.125.174, port: 2053, type: vless, Inc. - 23: None, client-fingerprint: random, uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5, tls: true, tfo: false, servername: cfed.tgzdyz2.top, skip-cert-verify: true, network: ws, ws-opts: {path: TG@ZDYZ2, headers: {Host: cfed.tgzdyz2.top}}, udp: true, delay: 1384}
   - {name: KR_speednode_0082, server: 43.203.207.149, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: KR_speednode_0083, server: 112.168.91.60, port: 18888, type: vless, Inc. - 22: None, client-fingerprint: random, uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5, tls: true, tfo: false, servername: cfed.tgzdyz2.top, skip-cert-verify: true, network: ws, ws-opts: {path: TG@ZDYZ2, headers: {Host: cfed.tgzdyz2.top}}, udp: true, delay: 2506}
   - {name: KR_speednode_0084, server: wwwse011.google01.com, port: 30043, type: trojan, password: 0e640912-0b6c-33fb-9b59-dd3f5121447d, sni: wwwse011.google01.com, skip-cert-verify: true, udp: true}
@@ -285,7 +284,6 @@ proxy-groups:
   - KR_speednode_0078
   - KR_speednode_0079
   - KR_speednode_0080
-  - KR_speednode_0081
   - KR_speednode_0082
   - KR_speednode_0083
   - KR_speednode_0084
@@ -486,7 +484,6 @@ proxy-groups:
   - KR_speednode_0078
   - KR_speednode_0079
   - KR_speednode_0080
-  - KR_speednode_0081
   - KR_speednode_0082
   - KR_speednode_0083
   - KR_speednode_0084
