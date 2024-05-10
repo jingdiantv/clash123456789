@@ -83,8 +83,6 @@ proxies:
   - {name: US_speednode_0079, server: 162.159.58.157, port: 2053, type: vless, client-fingerprint: random, uuid: 678ac895-92c2-4f27-a9d4-f1a89c5f5365, tls: true, tfo: false, skip-cert-verify: true, servername: mositr.freenods.sbs, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: mositr.freenods.sbs}}, udp: true}
   - {name: US_speednode_0080, server: 212.102.47.198, port: 443, type: ss, cipher: aes-128-cfb, country: US, password: shadowsocks, tfo: false}
   - {name: US_speednode_0081, server: cfcdn1.sanfencdn9.com, port: 2052, type: vmess, alterId: 0, cipher: auto, network: ws, servername: "", skip-cert-verify: false, tfo: false, tls: false, uuid: 2eec45db-dfcd-43d6-8514-b141aff651be, ws-opts: {headers: {Host: tw1bQiWSE4x.fzbqfrse.xyz}, path: /video/GQ2qE5Us9g}}
-  - {name: US_speednode_0082, server: cdn.bethebest.eu.org, port: 8880, type: vmess, alterId: 0, cipher: auto, network: ws, uuid: 86a0a07a-d0ed-480a-aa2a-f1a96592747e, servername: "", tls: false, ws-opts: {path: /, headers: {Host: us.bethebest.eu.org}}}
-  - {name: US_speednode_0083, server: cdn.bethebest.eu.org, port: 8880, type: vmess, alterId: 0, cipher: auto, network: ws, uuid: f39f09ec-c0d8-46dd-b8c7-b43b3d22c328, servername: "", tls: false, ws-opts: {path: /, headers: {Host: hk2.wish.ml}}}
   - {name: US_speednode_0084, server: cf.345673.xyz, port: 80, type: vmess, alterId: 0, cipher: auto, network: ws, uuid: c0453a16-67e9-4eab-bdc9-b9624ad6bd29, servername: "", tls: false, ws-opts: {path: /, headers: {Host: fremont.xlb8.eu.org}}}
   - {name: VN_speednode_0085, server: bs4.loadingip.com, port: 80, type: vmess, alterId: 0, cipher: auto, country: VN, h2-opts: {}, http-opts: {}, network: ws, servername: bs4.loadingip.com, skip-cert-verify: true, uuid: 9e5999ba-870a-46b1-8500-37c640371ec6, ws-opts: {headers: {HOST: bs4.loadingip.com}, path: /bs}}
 proxy-groups:
@@ -173,8 +171,6 @@ proxy-groups:
   - US_speednode_0079
   - US_speednode_0080
   - US_speednode_0081
-  - US_speednode_0082
-  - US_speednode_0083
   - US_speednode_0084
   - VN_speednode_0085
 - name: ♻️ automatic
@@ -261,8 +257,6 @@ proxy-groups:
   - US_speednode_0079
   - US_speednode_0080
   - US_speednode_0081
-  - US_speednode_0082
-  - US_speednode_0083
   - US_speednode_0084
   - VN_speednode_0085
   url: https://www.google.com/favicon.ico
