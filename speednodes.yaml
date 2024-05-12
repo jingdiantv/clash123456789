@@ -37,80 +37,78 @@ proxies:
   - {name: DK_speednode_0033, server: 46.29.235.78, port: 80, type: vless, udp: true, uuid: 7e08dc93-a81d-4a24-995e-76ce0e11defa, tls: true, servername: dash.cloudflare.com, flow: xtls-rprx-vision, network: tcp, reality-opts: {public-key: tv78GZDfmDnF6B9h4lnnELyRI2pKxixviayB6W4bOE0, short-id: 95becf1c4d3adc04}, client-fingerprint: chrome}
   - {name: FI_speednode_0034, server: 65.109.188.83, port: 56888, type: vless, udp: true, uuid: f6e218b3-e76c-43e5-93ca-1feb336e5c34, tls: true, servername: ftp.debian.org, flow: xtls-rprx-vision, network: tcp, reality-opts: {public-key: WsXvo3TM_RUNg529VtpsjyakG21eK65iOnvIuSvvGTA, short-id: bdfff48d}, client-fingerprint: chrome}
   - {name: GB_speednode_0035, server: 3.10.199.245, port: 8080, type: ssr, cipher: aes-256-cfb, password: vD2z9zJXd, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: releases.ubuntu.com}
-  - {name: JP_speednode_0040, server: 18.176.215.63, port: 2377, type: ss, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, cipher: chacha20-ietf-poly1305, plugin: obfs, plugin-opts: {mode: tls, host: (TG @WangCai2)c68b799:50307}, delay: 341}
-  - {name: KR_speednode_0041, server: 146.56.151.32, port: 19, type: vless, uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5, network: ws, tls: true, client-fingerprint: random, servername: cfed.tgzdyz2.top, ws-opts: {path: tg%40zdyz2, headers: {host: cfed.tgzdyz2.top}}, delay: 807}
-  - {name: KR_speednode_0042, server: 132.226.235.126, port: 59408, type: vless, uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5, network: ws, tls: true, client-fingerprint: random, servername: cfed.tgzdyz2.top, ws-opts: {path: tg%40zdyz2, headers: {host: cfed.tgzdyz2.top}}, delay: 870}
-  - {name: KR_speednode_0043, server: 146.56.141.168, port: 47590, type: vless, uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5, network: ws, tls: true, client-fingerprint: random, servername: cfed.tgzdyz2.top, ws-opts: {path: tg%40zdyz2, headers: {host: cfed.tgzdyz2.top}}, delay: 861}
-  - {name: KR_speednode_0044, server: 43.201.47.36, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, delay: 624, tfo: false, udp: true, country: 🇦🇺 AU, client-fingerprint: chrome, alterId: -1, customName: 日本特殊|@ripaojiedian}
-  - {name: NL_speednode_0045, server: nl1.proxysocks.xyz, port: 8388, type: ss, country: 🇸🇨SC, password: NWU5M, cipher: chacha20-ietf-poly1305, delay: 1158, udp: true, alterId: -1, customName: netflix_NL}
-  - {name: NL_speednode_0046, server: 185.236.233.112, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: NWU5M}
-  - {name: NL_speednode_0047, server: 185.142.238.222, port: 8443, type: vless, udp: true, uuid: ae5aed77-be23-4f6c-bd51-c73745038952, tls: true, servername: maps.google.com, flow: xtls-rprx-vision, network: tcp, reality-opts: {public-key: NbtOWq_km9k_SKgCJatXla3Jl7gGKVbjQ-GAtGg4bEk, short-id: bfde1c85a6a4112a}, client-fingerprint: chrome}
-  - {name: SG_speednode_0048, server: 47.236.114.166, port: 44120, type: vless, udp: true, uuid: 407129f7-ae44-4aba-b6d7-92fd0026d1a8, network: ws, tls: true, skip-cert-verify: true, client-fingerprint: random, servername: qifei.today.elementfx.com, ws-opts: {path: /proxyIP=proxyip.sg.fxxk.dedyn.io, headers: {Host: qifei.today.elementfx.com}}, delay: 1049, tfo: false}
-  - {name: SG_speednode_0049, server: 8.222.138.166, port: 21737, type: vless, client-fingerprint: random, uuid: 407129f7-ae44-4aba-b6d7-92fd0026d1a8, tls: true, tfo: false, skip-cert-verify: true, servername: qifei.today.elementfx.com, network: ws, ws-opts: {path: /proxyIP=proxyip.sg.fxxk.dedyn.io, headers: {Host: qifei.today.elementfx.com}}, udp: true}
-  - {name: SG_speednode_0050, server: 138.2.95.33, port: 17465, type: vless, Inc. -...: None, udp: true, uuid: b7a392e2-4ef0-4496-90bc-1c37bb234904, network: ws, tls: true, skip-cert-verify: true, client-fingerprint: random, servername: TG.CMLiussss.elementfx.com, ws-opts: {path: /proxyIP=proxyip.sg.fxxk.dedyn.io, headers: {Host: TG.CMLiussss.elementfx.com}}, delay: 557}
-  - {name: SG_speednode_0051, server: 103.172.116.103, port: 9094, type: ss, password: rpgbNnU9rDDU4aWZ, cipher: aes-256-cfb, udp: true, alterId: -1, customName: 4FreeIran-1263}
-  - {name: SG_speednode_0052, server: 103.172.116.103, port: 9041, type: ss, password: U6qnYRhfyDmn8sgn, cipher: aes-256-cfb, udp: true, alterId: -1, country: 🏁 ZZ, customName: ChatGPT 🏁 ZZ_586}
-  - {name: SG_speednode_0053, server: 103.172.116.103, port: 9084, type: ss, password: c3NtHJ5ujV2tGDfj, cipher: aes-256-cfb, udp: true, alterId: -1, customName: 4FreeIran-1123}
-  - {name: SG_speednode_0054, server: 154.90.63.202, port: 4852, type: ss, cipher: aes-256-gcm, password: 5cdf071a-eb8d-49fc-a2ab-6f61da948531}
-  - {name: SG_speednode_0055, server: 103.172.116.103, port: 9070, type: ss, password: bf7v334KKDV3YDhH, cipher: aes-256-cfb, udp: true, alterId: -1, customName: 4FreeIran-1108}
-  - {name: SG_speednode_0056, server: 103.172.116.103, port: 9020, type: ss, password: BNmAXXxAHYpTRdzu, cipher: aes-256-cfb, udp: true, alterId: -1, customName: 4FreeIran-690}
-  - {name: US_speednode_0057, server: 34.222.133.159, port: 443, type: ss, country: 🇺🇸 US, password: amazonskr05, cipher: aes-256-cfb, delay: 603, udp: true, alterId: -1, customName: 🇺🇸 US_473}
-  - {name: US_speednode_0058, server: 104.192.224.141, port: 40391, type: hysteria2, password: dongtaiwang.com, fast-open: true, sni: www.bing.com, skip-cert-verify: true}
-  - {name: US_speednode_0059, server: 104.192.224.140, port: 40391, type: hysteria2, password: dongtaiwang.com, fast-open: true, sni: www.bing.com, skip-cert-verify: true}
-  - {name: US_speednode_0060, server: 156.146.38.163, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, delay: 646, alterId: -1, customName: 🇺🇸US-156.146.38.163-0325, country: 🇺🇸US}
-  - {name: US_speednode_0061, server: 52.38.200.248, port: 443, type: ss, country: 🇺🇸US, password: amazonskr05, cipher: aes-256-cfb, delay: 530, udp: true, alterId: -1, customName: 🇺🇸US_487}
-  - {name: US_speednode_0062, server: 109.104.152.89, port: 22441, type: hysteria2, password: dongtaiwang.com, alpn: [h3], sni: www.bing.com, skip-cert-verify: true, up: 11 Mbps, down: 55 Mbps}
-  - {name: US_speednode_0063, server: 212.102.47.198, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks}
-  - {name: US_speednode_0064, server: 104.20.27.224, port: 2096, type: vless, udp: true, uuid: 678ac895-92c2-4f27-a9d4-f1a89c5f5365, network: ws, tls: true, skip-cert-verify: true, client-fingerprint: random, servername: mositr.freenods.sbs, ws-opts: {path: "/?ed=2560", headers: {Host: mositr.freenods.sbs}}, delay: 1593}
-  - {name: US_speednode_0065, server: 38.86.135.185, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: US_speednode_0066, server: 38.86.135.31, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: US_speednode_0067, server: 38.86.135.31, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: US_speednode_0068, server: 38.86.135.31, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: US_speednode_0069, server: 38.86.135.31, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
-  - {name: US_speednode_0070, server: 38.86.135.31, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: US_speednode_0071, server: 38.86.135.31, port: 5498, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
-  - {name: US_speednode_0072, server: 38.86.135.31, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: US_speednode_0073, server: 38.86.135.31, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: US_speednode_0074, server: 54.70.43.105, port: 8081, type: ssr, cipher: aes-256-cfb, password: SRof6TrK0, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: releases.ubuntu.com}
-  - {name: US_speednode_0075, server: 38.86.135.31, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: US_speednode_0076, server: 104.21.66.93, port: 443, type: vless, uuid: f0f67b84-2770-4413-8b26-cfb302fac247, network: ws, tls: true, client-fingerprint: chrome, servername: v2fly.milik-fukada.eu.org, ws-opts: {path: "Telegram@V2ray_Alpha/?ed=2048", headers: {host: v2fly.milik-fukada.eu.org}}, delay: 1046}
-  - {name: US_speednode_0077, server: 38.86.135.31, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: US_speednode_0078, server: 172.67.149.124, port: 443, type: trojan, country: 🇺🇸US, udp: true, password: 52701795-3c3b-46b4-b7cf-c5978b3a4cf2, sni: hdfyc1.achaemenidempireofpersia.uk, network: grpc, grpc-opts: {grpc-service-name: xw7uebRG4KlUXGGYTVEagC5V7fI}, delay: 1008, alterId: -1, customName: Relay_🇺🇸US-🇸🇪SE_544, tls: true}
-  - {name: US_speednode_0079, server: 15.204.87.222, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: US_speednode_0080, server: 15.204.87.222, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: US_speednode_0081, server: 15.204.87.222, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: US_speednode_0082, server: 15.204.87.222, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: US_speednode_0083, server: 15.204.87.222, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: US_speednode_0084, server: 15.204.87.222, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: US_speednode_0085, server: 15.204.87.222, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: US_speednode_0086, server: 15.204.87.222, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: US_speednode_0087, server: 15.204.87.222, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: US_speednode_0088, server: 15.204.87.222, port: 5498, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
-  - {name: US_speednode_0089, server: 15.204.87.222, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
-  - {name: US_speednode_0090, server: 15.204.87.222, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: US_speednode_0091, server: 15.204.87.222, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: US_speednode_0092, server: 15.204.87.222, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: US_speednode_0093, server: 15.204.87.222, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-  - {name: US_speednode_0094, server: 15.204.87.222, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: US_speednode_0095, server: 15.204.87.222, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: US_speednode_0096, server: 15.204.87.222, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: US_speednode_0097, server: 15.204.87.222, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: US_speednode_0098, server: 15.204.87.222, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: US_speednode_0099, server: 15.204.87.222, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: US_speednode_0100, server: 15.204.87.222, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: US_speednode_0101, server: 15.204.87.222, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: US_speednode_0102, server: 15.204.87.222, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: US_speednode_0103, server: 15.204.87.222, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: US_speednode_0104, server: 15.204.87.222, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: US_speednode_0105, server: 15.204.87.222, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: US_speednode_0106, server: 15.204.87.222, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: US_speednode_0107, server: 15.204.87.222, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: US_speednode_0108, server: 15.204.87.222, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: US_speednode_0109, server: 15.204.87.222, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: US_speednode_0110, server: 15.204.87.222, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: US_speednode_0111, server: 15.204.87.222, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: US_speednode_0112, server: 15.204.87.222, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: US_speednode_0113, server: 15.204.87.222, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: JP_speednode_0036, server: 18.176.215.63, port: 2377, type: ss, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, cipher: chacha20-ietf-poly1305, plugin: obfs, plugin-opts: {mode: tls, host: (TG @WangCai2)c68b799:50307}, delay: 341}
+  - {name: KR_speednode_0037, server: 146.56.151.32, port: 19, type: vless, uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5, network: ws, tls: true, client-fingerprint: random, servername: cfed.tgzdyz2.top, ws-opts: {path: tg%40zdyz2, headers: {host: cfed.tgzdyz2.top}}, delay: 807}
+  - {name: KR_speednode_0038, server: 132.226.235.126, port: 59408, type: vless, uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5, network: ws, tls: true, client-fingerprint: random, servername: cfed.tgzdyz2.top, ws-opts: {path: tg%40zdyz2, headers: {host: cfed.tgzdyz2.top}}, delay: 870}
+  - {name: KR_speednode_0039, server: 146.56.141.168, port: 47590, type: vless, uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5, network: ws, tls: true, client-fingerprint: random, servername: cfed.tgzdyz2.top, ws-opts: {path: tg%40zdyz2, headers: {host: cfed.tgzdyz2.top}}, delay: 861}
+  - {name: KR_speednode_0040, server: 43.201.47.36, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, delay: 624, tfo: false, udp: true, country: 🇦🇺 AU, client-fingerprint: chrome, alterId: -1, customName: 日本特殊|@ripaojiedian}
+  - {name: NL_speednode_0041, server: nl1.proxysocks.xyz, port: 8388, type: ss, country: 🇸🇨SC, password: NWU5M, cipher: chacha20-ietf-poly1305, delay: 1158, udp: true, alterId: -1, customName: netflix_NL}
+  - {name: NL_speednode_0042, server: 185.236.233.112, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: NWU5M}
+  - {name: NL_speednode_0043, server: 185.142.238.222, port: 8443, type: vless, udp: true, uuid: ae5aed77-be23-4f6c-bd51-c73745038952, tls: true, servername: maps.google.com, flow: xtls-rprx-vision, network: tcp, reality-opts: {public-key: NbtOWq_km9k_SKgCJatXla3Jl7gGKVbjQ-GAtGg4bEk, short-id: bfde1c85a6a4112a}, client-fingerprint: chrome}
+  - {name: SG_speednode_0044, server: 47.236.114.166, port: 44120, type: vless, udp: true, uuid: 407129f7-ae44-4aba-b6d7-92fd0026d1a8, network: ws, tls: true, skip-cert-verify: true, client-fingerprint: random, servername: qifei.today.elementfx.com, ws-opts: {path: /proxyIP=proxyip.sg.fxxk.dedyn.io, headers: {Host: qifei.today.elementfx.com}}, delay: 1049, tfo: false}
+  - {name: SG_speednode_0045, server: 8.222.138.166, port: 21737, type: vless, client-fingerprint: random, uuid: 407129f7-ae44-4aba-b6d7-92fd0026d1a8, tls: true, tfo: false, skip-cert-verify: true, servername: qifei.today.elementfx.com, network: ws, ws-opts: {path: /proxyIP=proxyip.sg.fxxk.dedyn.io, headers: {Host: qifei.today.elementfx.com}}, udp: true}
+  - {name: SG_speednode_0046, server: 138.2.95.33, port: 17465, type: vless, udp: true, uuid: b7a392e2-4ef0-4496-90bc-1c37bb234904, network: ws, tls: true, skip-cert-verify: true, client-fingerprint: random, servername: TG.CMLiussss.elementfx.com, ws-opts: {path: /proxyIP=proxyip.sg.fxxk.dedyn.io, headers: {Host: TG.CMLiussss.elementfx.com}}, delay: 557}
+  - {name: SG_speednode_0047, server: 103.172.116.103, port: 9094, type: ss, password: rpgbNnU9rDDU4aWZ, cipher: aes-256-cfb, udp: true, alterId: -1, customName: 4FreeIran-1263}
+  - {name: SG_speednode_0048, server: 103.172.116.103, port: 9041, type: ss, password: U6qnYRhfyDmn8sgn, cipher: aes-256-cfb, udp: true, alterId: -1, country: 🏁 ZZ, customName: ChatGPT 🏁 ZZ_586}
+  - {name: SG_speednode_0049, server: 103.172.116.103, port: 9084, type: ss, password: c3NtHJ5ujV2tGDfj, cipher: aes-256-cfb, udp: true, alterId: -1, customName: 4FreeIran-1123}
+  - {name: SG_speednode_0050, server: 154.90.63.202, port: 4852, type: ss, cipher: aes-256-gcm, password: 5cdf071a-eb8d-49fc-a2ab-6f61da948531}
+  - {name: SG_speednode_0051, server: 103.172.116.103, port: 9070, type: ss, password: bf7v334KKDV3YDhH, cipher: aes-256-cfb, udp: true, alterId: -1, customName: 4FreeIran-1108}
+  - {name: SG_speednode_0052, server: 103.172.116.103, port: 9020, type: ss, password: BNmAXXxAHYpTRdzu, cipher: aes-256-cfb, udp: true, alterId: -1, customName: 4FreeIran-690}
+  - {name: US_speednode_0053, server: 34.222.133.159, port: 443, type: ss, country: 🇺🇸 US, password: amazonskr05, cipher: aes-256-cfb, delay: 603, udp: true, alterId: -1, customName: 🇺🇸 US_473}
+  - {name: US_speednode_0054, server: 156.146.38.163, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, delay: 646, alterId: -1, customName: 🇺🇸US-156.146.38.163-0325, country: 🇺🇸US}
+  - {name: US_speednode_0055, server: 52.38.200.248, port: 443, type: ss, country: 🇺🇸US, password: amazonskr05, cipher: aes-256-cfb, delay: 530, udp: true, alterId: -1, customName: 🇺🇸US_487}
+  - {name: US_speednode_0056, server: 212.102.47.198, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks}
+  - {name: US_speednode_0057, server: 104.20.27.224, port: 2096, type: vless, udp: true, uuid: 678ac895-92c2-4f27-a9d4-f1a89c5f5365, network: ws, tls: true, skip-cert-verify: true, client-fingerprint: random, servername: mositr.freenods.sbs, ws-opts: {path: "/?ed=2560", headers: {Host: mositr.freenods.sbs}}, delay: 1593}
+  - {name: US_speednode_0058, server: 38.86.135.185, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: US_speednode_0059, server: 38.86.135.31, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: US_speednode_0060, server: 38.86.135.31, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: US_speednode_0061, server: 38.86.135.31, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: US_speednode_0062, server: 38.86.135.31, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
+  - {name: US_speednode_0063, server: 38.86.135.31, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: US_speednode_0064, server: 38.86.135.31, port: 5498, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
+  - {name: US_speednode_0065, server: 38.86.135.31, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: US_speednode_0066, server: 38.86.135.31, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: US_speednode_0067, server: 54.70.43.105, port: 8081, type: ssr, cipher: aes-256-cfb, password: SRof6TrK0, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: releases.ubuntu.com}
+  - {name: US_speednode_0068, server: 38.86.135.31, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: US_speednode_0069, server: 104.21.66.93, port: 443, type: vless, uuid: f0f67b84-2770-4413-8b26-cfb302fac247, network: ws, tls: true, client-fingerprint: chrome, servername: v2fly.milik-fukada.eu.org, ws-opts: {path: "Telegram@V2ray_Alpha/?ed=2048", headers: {host: v2fly.milik-fukada.eu.org}}, delay: 1046}
+  - {name: US_speednode_0070, server: 38.86.135.31, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: US_speednode_0071, server: 172.67.149.124, port: 443, type: trojan, country: 🇺🇸US, udp: true, password: 52701795-3c3b-46b4-b7cf-c5978b3a4cf2, sni: hdfyc1.achaemenidempireofpersia.uk, network: grpc, grpc-opts: {grpc-service-name: xw7uebRG4KlUXGGYTVEagC5V7fI}, delay: 1008, alterId: -1, customName: Relay_🇺🇸US-🇸🇪SE_544, tls: true}
+  - {name: US_speednode_0072, server: 15.204.87.222, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: US_speednode_0073, server: 15.204.87.222, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: US_speednode_0074, server: 15.204.87.222, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: US_speednode_0075, server: 15.204.87.222, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: US_speednode_0076, server: 15.204.87.222, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: US_speednode_0077, server: 15.204.87.222, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: US_speednode_0078, server: 15.204.87.222, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: US_speednode_0079, server: 15.204.87.222, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: US_speednode_0080, server: 15.204.87.222, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: US_speednode_0081, server: 15.204.87.222, port: 5498, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
+  - {name: US_speednode_0082, server: 15.204.87.222, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
+  - {name: US_speednode_0083, server: 15.204.87.222, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: US_speednode_0084, server: 15.204.87.222, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: US_speednode_0085, server: 15.204.87.222, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: US_speednode_0086, server: 15.204.87.222, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: US_speednode_0087, server: 15.204.87.222, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: US_speednode_0088, server: 15.204.87.222, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: US_speednode_0089, server: 15.204.87.222, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: US_speednode_0090, server: 15.204.87.222, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: US_speednode_0091, server: 15.204.87.222, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: US_speednode_0092, server: 15.204.87.222, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: US_speednode_0093, server: 15.204.87.222, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: US_speednode_0094, server: 15.204.87.222, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: US_speednode_0095, server: 15.204.87.222, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: US_speednode_0096, server: 15.204.87.222, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: US_speednode_0097, server: 15.204.87.222, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: US_speednode_0098, server: 15.204.87.222, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: US_speednode_0099, server: 15.204.87.222, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: US_speednode_0100, server: 15.204.87.222, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: US_speednode_0101, server: 15.204.87.222, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: US_speednode_0102, server: 15.204.87.222, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: US_speednode_0103, server: 15.204.87.222, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: US_speednode_0104, server: 15.204.87.222, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: US_speednode_0105, server: 15.204.87.222, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: US_speednode_0106, server: 15.204.87.222, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: US_speednode_0107, server: hk.wish.ml, port: 2052, type: vmess, uuid: 714fbc68-3302-4750-b03f-c7f417c9ef78, alterId: 0, cipher: auto, udp: true, network: ws, ws-opts: {path: /, headers: {Host: hk2.wish.ml}}, ws-path: /, ws-headers: {Host: hk2.wish.ml}}
 proxy-groups:
 - name: ⭕ proxinode
   type: select
@@ -151,23 +149,27 @@ proxy-groups:
   - DK_speednode_0033
   - FI_speednode_0034
   - GB_speednode_0035
-  - JP_speednode_0040
-  - KR_speednode_0041
-  - KR_speednode_0042
-  - KR_speednode_0043
-  - KR_speednode_0044
-  - NL_speednode_0045
-  - NL_speednode_0046
-  - NL_speednode_0047
+  - JP_speednode_0036
+  - KR_speednode_0037
+  - KR_speednode_0038
+  - KR_speednode_0039
+  - KR_speednode_0040
+  - NL_speednode_0041
+  - NL_speednode_0042
+  - NL_speednode_0043
+  - SG_speednode_0044
+  - SG_speednode_0045
+  - SG_speednode_0046
+  - SG_speednode_0047
   - SG_speednode_0048
   - SG_speednode_0049
   - SG_speednode_0050
   - SG_speednode_0051
   - SG_speednode_0052
-  - SG_speednode_0053
-  - SG_speednode_0054
-  - SG_speednode_0055
-  - SG_speednode_0056
+  - US_speednode_0053
+  - US_speednode_0054
+  - US_speednode_0055
+  - US_speednode_0056
   - US_speednode_0057
   - US_speednode_0058
   - US_speednode_0059
@@ -219,12 +221,6 @@ proxy-groups:
   - US_speednode_0105
   - US_speednode_0106
   - US_speednode_0107
-  - US_speednode_0108
-  - US_speednode_0109
-  - US_speednode_0110
-  - US_speednode_0111
-  - US_speednode_0112
-  - US_speednode_0113
 - name: ♻️ automatic
   type: url-test
   proxies:
@@ -263,23 +259,27 @@ proxy-groups:
   - DK_speednode_0033
   - FI_speednode_0034
   - GB_speednode_0035
-  - JP_speednode_0040
-  - KR_speednode_0041
-  - KR_speednode_0042
-  - KR_speednode_0043
-  - KR_speednode_0044
-  - NL_speednode_0045
-  - NL_speednode_0046
-  - NL_speednode_0047
+  - JP_speednode_0036
+  - KR_speednode_0037
+  - KR_speednode_0038
+  - KR_speednode_0039
+  - KR_speednode_0040
+  - NL_speednode_0041
+  - NL_speednode_0042
+  - NL_speednode_0043
+  - SG_speednode_0044
+  - SG_speednode_0045
+  - SG_speednode_0046
+  - SG_speednode_0047
   - SG_speednode_0048
   - SG_speednode_0049
   - SG_speednode_0050
   - SG_speednode_0051
   - SG_speednode_0052
-  - SG_speednode_0053
-  - SG_speednode_0054
-  - SG_speednode_0055
-  - SG_speednode_0056
+  - US_speednode_0053
+  - US_speednode_0054
+  - US_speednode_0055
+  - US_speednode_0056
   - US_speednode_0057
   - US_speednode_0058
   - US_speednode_0059
@@ -331,12 +331,6 @@ proxy-groups:
   - US_speednode_0105
   - US_speednode_0106
   - US_speednode_0107
-  - US_speednode_0108
-  - US_speednode_0109
-  - US_speednode_0110
-  - US_speednode_0111
-  - US_speednode_0112
-  - US_speednode_0113
   url: https://www.google.com/favicon.ico
   interval: 300
 rules:
