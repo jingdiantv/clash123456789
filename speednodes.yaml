@@ -152,9 +152,6 @@ proxies:
   - {name: US_speednode_0132, server: 45.159.216.65, port: 443, type: vless, client-fingerprint: random, uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5, tls: true, tfo: false, servername: cfed.tgzdyz2.top, skip-cert-verify: true, network: ws, ws-opts: {path: TG%40ZDYZ2, headers: {Host: cfed.tgzdyz2.top}}, udp: true}
   - {name: US_speednode_0133, server: 185.148.106.96, port: 443, type: vless, client-fingerprint: random, uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5, tls: true, tfo: false, servername: cfed.tgzdyz2.top, skip-cert-verify: true, network: ws, ws-opts: {path: TG%40ZDYZ2, headers: {Host: cfed.tgzdyz2.top}}, udp: true}
   - {name: US_speednode_0134, server: 167.68.11.48, port: 443, type: vless, client-fingerprint: random, uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5, tls: true, tfo: false, servername: cfed.tgzdyz2.top, skip-cert-verify: true, network: ws, ws-opts: {path: TG%40ZDYZ2, headers: {Host: cfed.tgzdyz2.top}}, udp: true}
-  - {name: US_speednode_0135, server: 104.192.224.141, port: 62894, type: hysteria2, password: dongtaiwang.com, sni: www.bing.com, skip-cert-verify: true}
-  - {name: US_speednode_0136, server: 104.192.224.140, port: 62894, type: hysteria2, password: dongtaiwang.com, sni: www.bing.com, skip-cert-verify: true}
-  - {name: US_speednode_0137, server: 109.104.152.194, port: 58510, type: hysteria, skip-cert-verify: true, sni: bing.com, auth_str: dongtaiwang.com, up: 11, down: 55, alpn: [h3]}
   - {name: US_speednode_0138, server: 216.116.134.43, port: 2053, type: vless, uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f, tls: true, security: tls, servername: juzibaipiao.5112233.xyz, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2048", headers: {host: juzibaipiao.5112233.xyz}}, skip-cert-verify: false, tfo: false}
   - {name: US_speednode_0139, server: 45.159.217.54, port: 2087, type: vless, network: ws, servername: fq521.6789.cloudns.be, tls: true, uuid: 775213ac-3976-439a-8977-3277c0e4735d, ws-opts: {headers: {host: fq521.6789.cloudns.be}, path: Twitter%e8%8b%8f%e5%b0%8f%e6%9f%a0}}
   - {name: US_speednode_0140, server: 209.46.30.217, port: 8443, type: vless, network: ws, servername: fq521.6789.cloudns.be, tls: true, uuid: 775213ac-3976-439a-8977-3277c0e4735d, ws-opts: {headers: {host: fq521.6789.cloudns.be}, path: Twitter%e8%8b%8f%e5%b0%8f%e6%9f%a0}}
@@ -311,9 +308,6 @@ proxy-groups:
   - US_speednode_0132
   - US_speednode_0133
   - US_speednode_0134
-  - US_speednode_0135
-  - US_speednode_0136
-  - US_speednode_0137
   - US_speednode_0138
   - US_speednode_0139
   - US_speednode_0140
@@ -468,9 +462,6 @@ proxy-groups:
   - US_speednode_0132
   - US_speednode_0133
   - US_speednode_0134
-  - US_speednode_0135
-  - US_speednode_0136
-  - US_speednode_0137
   - US_speednode_0138
   - US_speednode_0139
   - US_speednode_0140
