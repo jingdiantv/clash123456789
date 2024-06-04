@@ -277,9 +277,6 @@ proxies:
   - {name: GB_speednode_0257, server: 194.36.55.173, port: 443, type: vless, uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5, tls: true, servername: cfed.tgzdyz2.top, network: ws, ws-opts: {path: TG%40ZDYZ2, headers: {host: cfed.tgzdyz2.top}}}
   - {name: GB_speednode_0258, server: 94.247.142.245, port: 443, type: vless, network: ws, servername: juzibaipiao.5112233.xyz, tls: true, uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f, ws-opts: {path: /, headers: {host: juzibaipiao.5112233.xyz}}}
   - {name: GB_speednode_0259, server: 31.22.116.134, port: 2096, type: vless, uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f, tls: true, servername: juzibaipiao.5112233.xyz, network: ws, ws-opts: {path: /, headers: {host: juzibaipiao.5112233.xyz}}}
-  - {name: HK_speednode_0260, server: hk5.mojc.xyz, port: 443, type: hysteria2, password: 8558e171-3307-4f9b-94af-2fe8e427cf9d, sni: hk5.mojc.xyz, skip-cert-verify: true}
-  - {name: HK_speednode_0261, server: hk4.mojc.xyz, port: 443, type: hysteria2, password: 8558e171-3307-4f9b-94af-2fe8e427cf9d, sni: hk4.mojc.xyz, skip-cert-verify: true}
-  - {name: HK_speednode_0262, server: hk2.mojc.xyz, port: 443, type: hysteria2, password: 8558e171-3307-4f9b-94af-2fe8e427cf9d, sni: hk2.mojc.xyz, skip-cert-verify: true}
   - {name: HK_speednode_0263, server: 199.15.79.11, port: 443, type: vless, client-fingerprint: chrome, uuid: 7509f896-2115-4420-b487-501c9103bebd, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/vless?ed=2560", headers: {Host: ccs.443888.xyz}}}
   - {name: HK_speednode_0264, server: 156.251.180.176, port: 21698, type: vless, client-fingerprint: chrome, uuid: 7509f896-2115-4420-b487-501c9103bebd, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/vless?ed=2560", headers: {Host: ccs.443888.xyz}}}
   - {name: HK_speednode_0265, server: 199.15.77.60, port: 43039, type: vless, client-fingerprint: chrome, uuid: 7509f896-2115-4420-b487-501c9103bebd, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/vless?ed=2560", headers: {Host: ccs.443888.xyz}}}
@@ -694,9 +691,6 @@ proxy-groups:
   - GB_speednode_0257
   - GB_speednode_0258
   - GB_speednode_0259
-  - HK_speednode_0260
-  - HK_speednode_0261
-  - HK_speednode_0262
   - HK_speednode_0263
   - HK_speednode_0264
   - HK_speednode_0265
@@ -1109,9 +1103,6 @@ proxy-groups:
   - GB_speednode_0257
   - GB_speednode_0258
   - GB_speednode_0259
-  - HK_speednode_0260
-  - HK_speednode_0261
-  - HK_speednode_0262
   - HK_speednode_0263
   - HK_speednode_0264
   - HK_speednode_0265
