@@ -111,9 +111,6 @@ proxies:
   - {name: SG_speednode_0091, server: 27.50.48.222, port: 443, type: vless, uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f, udp: true, tls: true, skip-cert-verify: false, servername: juzibaipiao.5112233.xyz, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: juzibaipiao.5112233.xyz}}}
   - {name: SG_speednode_0092, server: 13.214.209.23, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: SG_speednode_0093, server: 8.223.2.222, port: 80, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, udp: true, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.ssll.gay}}}
-  - {name: US_speednode_0094, server: 129.159.97.206, port: 51000, type: hysteria2, ports: 51000-53000, mport: 51000-53000, udp: true, skip-cert-verify: true, sni: cn.cremedelamer.com, password: d27334c2-b3bd-41a8-aa31-6557d23412ba}
-  - {name: US_speednode_0095, server: 141.148.182.2, port: 51000, type: hysteria2, ports: 51000-53000, mport: 51000-53000, udp: true, skip-cert-verify: true, sni: cn.cremedelamer.com, password: d27334c2-b3bd-41a8-aa31-6557d23412ba}
-  - {name: US_speednode_0096, server: 140.245.27.220, port: 51000, type: hysteria2, ports: 51000-53000, mport: 51000-53000, udp: true, skip-cert-verify: true, sni: cn.cremedelamer.com, password: d27334c2-b3bd-41a8-aa31-6557d23412ba}
   - {name: US_speednode_0097, server: 129.153.103.152, port: 443, type: vless, uuid: d27334c2-b3bd-41a8-aa31-6557d23412ba, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: chrome, servername: mirrors.download.xn--mirrors-oj8km52txc7d.com, network: tcp}
   - {name: US_speednode_0098, server: 129.153.107.224, port: 443, type: vless, uuid: d27334c2-b3bd-41a8-aa31-6557d23412ba, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: chrome, servername: mirrors.download.xn--mirrors-oj8km52txc7d.com, network: tcp}
   - {name: US_speednode_0099, server: 34.219.130.214, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
@@ -415,9 +412,6 @@ proxy-groups:
   - SG_speednode_0091
   - SG_speednode_0092
   - SG_speednode_0093
-  - US_speednode_0094
-  - US_speednode_0095
-  - US_speednode_0096
   - US_speednode_0097
   - US_speednode_0098
   - US_speednode_0099
@@ -717,9 +711,6 @@ proxy-groups:
   - SG_speednode_0091
   - SG_speednode_0092
   - SG_speednode_0093
-  - US_speednode_0094
-  - US_speednode_0095
-  - US_speednode_0096
   - US_speednode_0097
   - US_speednode_0098
   - US_speednode_0099
