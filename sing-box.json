@@ -1656,7 +1656,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -1668,7 +1681,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -1680,7 +1706,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -4716,7 +4755,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -4728,7 +4780,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -5071,7 +5136,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -5083,7 +5161,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -5095,7 +5186,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -5107,7 +5211,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -5119,7 +5236,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -5131,7 +5261,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -5143,7 +5286,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -6729,7 +6885,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -6741,7 +6910,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -6753,7 +6935,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -6765,7 +6960,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -7657,7 +7865,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -7998,7 +8219,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -8054,7 +8288,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11430,7 +11677,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11442,7 +11702,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11454,7 +11727,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11466,7 +11752,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11478,7 +11777,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11490,7 +11802,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11502,7 +11827,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11514,7 +11852,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11526,7 +11877,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11538,7 +11902,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11550,7 +11927,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11562,7 +11952,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11574,7 +11977,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11586,7 +12002,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11598,7 +12027,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11610,7 +12052,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11622,7 +12077,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11634,7 +12102,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     },
     {
@@ -11646,7 +12127,20 @@
       "tls": {
         "enabled": true,
         "server_name": "dy.fxu.asia",
-        "insecure": true
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "dy.fxu.asia"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560
       }
     }
   ],
