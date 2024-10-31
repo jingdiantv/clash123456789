@@ -86,110 +86,80 @@
       "outbounds": [
         "auto",
         "direct",
-        "speednode_0001",
-        "speednode_0002",
-        "speednode_0003",
-        "speednode_0004",
-        "speednode_0005",
-        "speednode_0006",
-        "speednode_0007",
-        "speednode_0008",
-        "speednode_0009",
-        "speednode_0010",
-        "speednode_0011",
-        "speednode_0012",
-        "speednode_0013",
-        "speednode_0014",
-        "speednode_0015",
-        "speednode_0016",
-        "speednode_0017",
-        "speednode_0018",
-        "speednode_0019",
-        "speednode_0020",
-        "speednode_0021",
-        "speednode_0022",
-        "speednode_0023",
-        "speednode_0024",
-        "speednode_0025",
-        "speednode_0026",
-        "speednode_0027",
-        "speednode_0028",
-        "speednode_0029",
-        "speednode_0030",
-        "speednode_0031",
-        "speednode_0032",
-        "speednode_0033",
-        "speednode_0034",
-        "speednode_0035",
-        "speednode_0036",
-        "speednode_0037",
-        "speednode_0038",
-        "speednode_0039",
-        "speednode_0040",
-        "speednode_0041",
-        "speednode_0042",
-        "speednode_0043",
-        "speednode_0044",
-        "speednode_0045",
-        "speednode_0046",
-        "speednode_0047",
-        "speednode_0048",
-        "speednode_0049"
+        "CA_speednode_0001",
+        "CN_speednode_0002",
+        "CR_speednode_0003",
+        "GB_speednode_0004",
+        "GB_speednode_0005",
+        "GB_speednode_0006",
+        "GB_speednode_0007",
+        "GB_speednode_0008",
+        "GB_speednode_0009",
+        "GB_speednode_0010",
+        "GB_speednode_0011",
+        "GB_speednode_0012",
+        "GB_speednode_0013",
+        "IR_speednode_0014",
+        "JO_speednode_0015",
+        "JP_speednode_0016",
+        "NL_speednode_0017",
+        "RU_speednode_0018",
+        "SE_speednode_0019",
+        "US_speednode_0020",
+        "US_speednode_0021",
+        "US_speednode_0022",
+        "US_speednode_0023",
+        "US_speednode_0024",
+        "US_speednode_0025",
+        "US_speednode_0026",
+        "US_speednode_0027",
+        "US_speednode_0028",
+        "US_speednode_0029",
+        "US_speednode_0030",
+        "US_speednode_0031",
+        "US_speednode_0032",
+        "US_speednode_0033",
+        "US_speednode_0034"
       ]
     },
     {
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "speednode_0001",
-        "speednode_0002",
-        "speednode_0003",
-        "speednode_0004",
-        "speednode_0005",
-        "speednode_0006",
-        "speednode_0007",
-        "speednode_0008",
-        "speednode_0009",
-        "speednode_0010",
-        "speednode_0011",
-        "speednode_0012",
-        "speednode_0013",
-        "speednode_0014",
-        "speednode_0015",
-        "speednode_0016",
-        "speednode_0017",
-        "speednode_0018",
-        "speednode_0019",
-        "speednode_0020",
-        "speednode_0021",
-        "speednode_0022",
-        "speednode_0023",
-        "speednode_0024",
-        "speednode_0025",
-        "speednode_0026",
-        "speednode_0027",
-        "speednode_0028",
-        "speednode_0029",
-        "speednode_0030",
-        "speednode_0031",
-        "speednode_0032",
-        "speednode_0033",
-        "speednode_0034",
-        "speednode_0035",
-        "speednode_0036",
-        "speednode_0037",
-        "speednode_0038",
-        "speednode_0039",
-        "speednode_0040",
-        "speednode_0041",
-        "speednode_0042",
-        "speednode_0043",
-        "speednode_0044",
-        "speednode_0045",
-        "speednode_0046",
-        "speednode_0047",
-        "speednode_0048",
-        "speednode_0049"
+        "CA_speednode_0001",
+        "CN_speednode_0002",
+        "CR_speednode_0003",
+        "GB_speednode_0004",
+        "GB_speednode_0005",
+        "GB_speednode_0006",
+        "GB_speednode_0007",
+        "GB_speednode_0008",
+        "GB_speednode_0009",
+        "GB_speednode_0010",
+        "GB_speednode_0011",
+        "GB_speednode_0012",
+        "GB_speednode_0013",
+        "IR_speednode_0014",
+        "JO_speednode_0015",
+        "JP_speednode_0016",
+        "NL_speednode_0017",
+        "RU_speednode_0018",
+        "SE_speednode_0019",
+        "US_speednode_0020",
+        "US_speednode_0021",
+        "US_speednode_0022",
+        "US_speednode_0023",
+        "US_speednode_0024",
+        "US_speednode_0025",
+        "US_speednode_0026",
+        "US_speednode_0027",
+        "US_speednode_0028",
+        "US_speednode_0029",
+        "US_speednode_0030",
+        "US_speednode_0031",
+        "US_speednode_0032",
+        "US_speednode_0033",
+        "US_speednode_0034"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -208,15 +178,7 @@
       "tag": "block"
     },
     {
-      "tag": "speednode_0001",
-      "type": "shadowsocks",
-      "server": "149.22.95.183",
-      "server_port": 443,
-      "method": "aes-128-gcm",
-      "password": "shadowsocks"
-    },
-    {
-      "tag": "speednode_0002",
+      "tag": "CA_speednode_0001",
       "type": "vmess",
       "server": "23.162.200.227",
       "server_port": 443,
@@ -234,7 +196,7 @@
       }
     },
     {
-      "tag": "speednode_0003",
+      "tag": "CN_speednode_0002",
       "type": "vmess",
       "server": "183.236.51.23",
       "server_port": 51002,
@@ -243,7 +205,7 @@
       "alter_id": 64
     },
     {
-      "tag": "speednode_0004",
+      "tag": "CR_speednode_0003",
       "type": "vless",
       "server": "190.93.247.155",
       "server_port": 80,
@@ -258,49 +220,7 @@
       }
     },
     {
-      "tag": "speednode_0005",
-      "type": "vmess",
-      "server": "23.162.152.177",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "alter_id": 1,
-      "tls": {
-        "enabled": true,
-        "server_name": "23.162.152.177",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "23.162.152.177"
-        }
-      }
-    },
-    {
-      "tag": "speednode_0006",
-      "type": "vmess",
-      "server": "23.162.152.177",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "alter_id": 1,
-      "tls": {
-        "enabled": true,
-        "server_name": "23.162.152.177",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "23.162.152.177"
-        }
-      }
-    },
-    {
-      "tag": "speednode_0007",
+      "tag": "GB_speednode_0004",
       "type": "shadowsocks",
       "server": "212.102.47.131",
       "server_port": 443,
@@ -308,7 +228,7 @@
       "password": "shadowsocks"
     },
     {
-      "tag": "speednode_0008",
+      "tag": "GB_speednode_0005",
       "type": "vless",
       "server": "94.247.142.241",
       "server_port": 443,
@@ -328,7 +248,7 @@
       }
     },
     {
-      "tag": "speednode_0009",
+      "tag": "GB_speednode_0006",
       "type": "vless",
       "server": "94.247.142.241",
       "server_port": 443,
@@ -348,7 +268,7 @@
       }
     },
     {
-      "tag": "speednode_0010",
+      "tag": "GB_speednode_0007",
       "type": "vless",
       "server": "94.247.142.241",
       "server_port": 443,
@@ -368,7 +288,7 @@
       }
     },
     {
-      "tag": "speednode_0011",
+      "tag": "GB_speednode_0008",
       "type": "vless",
       "server": "94.247.142.241",
       "server_port": 443,
@@ -388,7 +308,7 @@
       }
     },
     {
-      "tag": "speednode_0012",
+      "tag": "GB_speednode_0009",
       "type": "vless",
       "server": "94.247.142.241",
       "server_port": 443,
@@ -408,7 +328,7 @@
       }
     },
     {
-      "tag": "speednode_0013",
+      "tag": "GB_speednode_0010",
       "type": "vless",
       "server": "94.247.142.241",
       "server_port": 443,
@@ -432,7 +352,7 @@
       }
     },
     {
-      "tag": "speednode_0014",
+      "tag": "GB_speednode_0011",
       "type": "vless",
       "server": "94.247.142.241",
       "server_port": 443,
@@ -452,7 +372,7 @@
       }
     },
     {
-      "tag": "speednode_0015",
+      "tag": "GB_speednode_0012",
       "type": "vless",
       "server": "94.247.142.241",
       "server_port": 443,
@@ -476,7 +396,7 @@
       }
     },
     {
-      "tag": "speednode_0016",
+      "tag": "GB_speednode_0013",
       "type": "vless",
       "server": "94.247.142.241",
       "server_port": 443,
@@ -505,15 +425,7 @@
       }
     },
     {
-      "tag": "speednode_0017",
-      "type": "shadowsocks",
-      "server": "52.164.203.76",
-      "server_port": 20143,
-      "method": "chacha20-ietf-poly1305",
-      "password": "81aBd6IJIgFwT1lqcojSzK"
-    },
-    {
-      "tag": "speednode_0018",
+      "tag": "IR_speednode_0014",
       "type": "vless",
       "server": "2.189.130.90",
       "server_port": 35208,
@@ -525,7 +437,7 @@
       }
     },
     {
-      "tag": "speednode_0019",
+      "tag": "JO_speednode_0015",
       "type": "vless",
       "server": "62.72.166.67",
       "server_port": 2096,
@@ -545,7 +457,7 @@
       }
     },
     {
-      "tag": "speednode_0020",
+      "tag": "JP_speednode_0016",
       "type": "shadowsocks",
       "server": "149.22.87.240",
       "server_port": 443,
@@ -553,7 +465,7 @@
       "password": "shadowsocks"
     },
     {
-      "tag": "speednode_0021",
+      "tag": "NL_speednode_0017",
       "type": "shadowsocks",
       "server": "208.67.105.196",
       "server_port": 42029,
@@ -561,49 +473,7 @@
       "password": "SjdGCHwafjktt1rzpGxTKYTvVBWb8Xa6E5DTr6MzbdHQSwvpLiDczj3n6MBjy2uyFSzgqgvCWsDQmpM4VQzfPzyGYF58wdyD"
     },
     {
-      "tag": "speednode_0022",
-      "type": "vmess",
-      "server": "n002.kovmk.website",
-      "server_port": 8080,
-      "uuid": "6dde3b3f-0a00-448a-a406-26d0960d1655",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "daohang.kovmk.website",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/xyz",
-        "headers": {
-          "Host": "daohang.kovmk.website"
-        }
-      }
-    },
-    {
-      "tag": "speednode_0023",
-      "type": "vmess",
-      "server": "n001.kovmk.website",
-      "server_port": 8080,
-      "uuid": "92f1932f-ee19-464f-900c-93df90df830d",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "daohang.kovmk.website",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/xyz",
-        "headers": {
-          "Host": "daohang.kovmk.website"
-        }
-      }
-    },
-    {
-      "tag": "speednode_0024",
+      "tag": "RU_speednode_0018",
       "type": "vmess",
       "server": "m003.mmzhk.website",
       "server_port": 8080,
@@ -624,87 +494,7 @@
       }
     },
     {
-      "tag": "speednode_0025",
-      "type": "vless",
-      "server": "154.83.2.54",
-      "server_port": 2096,
-      "uuid": "fe962226-fe1c-4391-a5ba-7b7c62adda19",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "am-tunnel-6fs.pages.dev",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "am-tunnel-6fs.pages.dev"
-        }
-      }
-    },
-    {
-      "tag": "speednode_0026",
-      "type": "vless",
-      "server": "154.83.2.54",
-      "server_port": 2096,
-      "uuid": "fe962226-fe1c-4391-a5ba-7b7c62adda19",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "am-tunnel-6fs.pages.dev",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "am-tunnel-6fs.pages.dev"
-        }
-      }
-    },
-    {
-      "tag": "speednode_0027",
-      "type": "vless",
-      "server": "154.83.2.54",
-      "server_port": 2096,
-      "uuid": "fe962226-fe1c-4391-a5ba-7b7c62adda19",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "am-tunnel-6fs.pages.dev",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "am-tunnel-6fs.pages.dev"
-        }
-      }
-    },
-    {
-      "tag": "speednode_0028",
-      "type": "vless",
-      "server": "154.83.2.54",
-      "server_port": 2096,
-      "uuid": "fe962226-fe1c-4391-a5ba-7b7c62adda19",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "am-tunnel-6fs.pages.dev",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "am-tunnel-6fs.pages.dev"
-        }
-      }
-    },
-    {
-      "tag": "speednode_0029",
+      "tag": "SE_speednode_0019",
       "type": "vless",
       "server": "185.146.173.58",
       "server_port": 8080,
@@ -719,7 +509,7 @@
       }
     },
     {
-      "tag": "speednode_0030",
+      "tag": "US_speednode_0020",
       "type": "vless",
       "server": "167.82.30.71",
       "server_port": 80,
@@ -736,7 +526,7 @@
       }
     },
     {
-      "tag": "speednode_0031",
+      "tag": "US_speednode_0021",
       "type": "shadowsocks",
       "server": "150.241.95.62",
       "server_port": 42445,
@@ -744,7 +534,7 @@
       "password": "flj72wu+&R"
     },
     {
-      "tag": "speednode_0032",
+      "tag": "US_speednode_0022",
       "type": "vless",
       "server": "199.232.5.101",
       "server_port": 443,
@@ -774,7 +564,7 @@
       }
     },
     {
-      "tag": "speednode_0033",
+      "tag": "US_speednode_0023",
       "type": "vless",
       "server": "199.232.37.15",
       "server_port": 80,
@@ -791,7 +581,7 @@
       }
     },
     {
-      "tag": "speednode_0034",
+      "tag": "US_speednode_0024",
       "type": "shadowsocks",
       "server": "156.146.38.168",
       "server_port": 443,
@@ -799,7 +589,7 @@
       "password": "shadowsocks"
     },
     {
-      "tag": "speednode_0035",
+      "tag": "US_speednode_0025",
       "type": "vless",
       "server": "199.232.37.15",
       "server_port": 80,
@@ -816,15 +606,7 @@
       }
     },
     {
-      "tag": "speednode_0036",
-      "type": "shadowsocks",
-      "server": "38.110.1.107",
-      "server_port": 5000,
-      "method": "aes-256-gcm",
-      "password": "Y6R9pAtvxxzmGC"
-    },
-    {
-      "tag": "speednode_0037",
+      "tag": "US_speednode_0026",
       "type": "vless",
       "server": "104.19.209.229",
       "server_port": 8880,
@@ -841,7 +623,7 @@
       }
     },
     {
-      "tag": "speednode_0038",
+      "tag": "US_speednode_0027",
       "type": "shadowsocks",
       "server": "23.134.94.168",
       "server_port": 3389,
@@ -849,56 +631,7 @@
       "password": "Y6R9pAtvxxzmGC"
     },
     {
-      "tag": "speednode_0039",
-      "type": "vless",
-      "server": "www.speedtest.net",
-      "server_port": 443,
-      "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cconfigplus.spdtest.ggff.net",
-        "insecure": false,
-        "alpn": [
-          "h2",
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/W5V92vB3BQrJH2yY",
-        "headers": {
-          "Host": "cconfigplus.spdtest.ggff.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2560
-      }
-    },
-    {
-      "tag": "speednode_0040",
-      "type": "trojan",
-      "server": "159.246.55.132",
-      "server_port": 443,
-      "password": "auto",
-      "tls": {
-        "enabled": true,
-        "server_name": "vip.123789.pp.ua",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "vip.123789.pp.ua"
-        }
-      }
-    },
-    {
-      "tag": "speednode_0041",
+      "tag": "US_speednode_0028",
       "type": "vmess",
       "server": "104.19.72.200",
       "server_port": 443,
@@ -919,7 +652,7 @@
       }
     },
     {
-      "tag": "speednode_0042",
+      "tag": "US_speednode_0029",
       "type": "vless",
       "server": "151.101.2.165",
       "server_port": 80,
@@ -936,56 +669,7 @@
       }
     },
     {
-      "tag": "speednode_0043",
-      "type": "vless",
-      "server": "172.67.39.222",
-      "server_port": 443,
-      "uuid": "eb64ed2c-46b3-4f67-b64d-5832cb810c65",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "yelan.thelastronin.cloudns.org",
-        "insecure": false,
-        "alpn": [
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/VLESS/nl-full.privateip.net",
-        "headers": {
-          "Host": "yelan.thelastronin.cloudns.org"
-        }
-      }
-    },
-    {
-      "tag": "speednode_0044",
-      "type": "vless",
-      "server": "104.21.69.44",
-      "server_port": 8443,
-      "uuid": "17fafaf9-7402-40eb-87ae-a75944c84c52",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "ggho.pages.dev.",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/Telegram-@V2ray_Alpha/",
-        "headers": {
-          "Host": "ggho.pages.dev."
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "speednode_0045",
+      "tag": "US_speednode_0030",
       "type": "vless",
       "server": "104.20.19.168",
       "server_port": 8880,
@@ -1002,7 +686,7 @@
       }
     },
     {
-      "tag": "speednode_0046",
+      "tag": "US_speednode_0031",
       "type": "vless",
       "server": "104.20.71.132",
       "server_port": 8880,
@@ -1019,7 +703,7 @@
       }
     },
     {
-      "tag": "speednode_0047",
+      "tag": "US_speednode_0032",
       "type": "vmess",
       "server": "www.baldengineer.com",
       "server_port": 443,
@@ -1043,7 +727,7 @@
       }
     },
     {
-      "tag": "speednode_0048",
+      "tag": "US_speednode_0033",
       "type": "vless",
       "server": "www.speedtest.net",
       "server_port": 2095,
@@ -1060,7 +744,7 @@
       }
     },
     {
-      "tag": "speednode_0049",
+      "tag": "US_speednode_0034",
       "type": "vless",
       "server": "www.speedtest.net",
       "server_port": 2052,
