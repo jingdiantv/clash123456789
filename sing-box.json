@@ -140,11 +140,7 @@
         "US_speednode_0052",
         "US_speednode_0053",
         "US_speednode_0054",
-        "US_speednode_0055",
-        "US_speednode_0056",
-        "US_speednode_0057",
-        "US_speednode_0058",
-        "US_speednode_0059"
+        "US_speednode_0055"
       ]
     },
     {
@@ -205,11 +201,7 @@
         "US_speednode_0052",
         "US_speednode_0053",
         "US_speednode_0054",
-        "US_speednode_0055",
-        "US_speednode_0056",
-        "US_speednode_0057",
-        "US_speednode_0058",
-        "US_speednode_0059"
+        "US_speednode_0055"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -903,23 +895,6 @@
     {
       "tag": "US_speednode_0033",
       "type": "vless",
-      "server": "172.67.175.9",
-      "server_port": 80,
-      "uuid": "ea9148b9-13b7-41cf-8911-94234e7c3fcf",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "private-codmhttp.teqqlzdw.workers.dev"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "US_speednode_0034",
-      "type": "vless",
       "server": "199.232.5.101",
       "server_port": 443,
       "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
@@ -944,7 +919,7 @@
       }
     },
     {
-      "tag": "US_speednode_0035",
+      "tag": "US_speednode_0034",
       "type": "vless",
       "server": "199.232.5.79",
       "server_port": 443,
@@ -970,7 +945,7 @@
       }
     },
     {
-      "tag": "US_speednode_0036",
+      "tag": "US_speednode_0035",
       "type": "vless",
       "server": "199.232.6.53",
       "server_port": 443,
@@ -996,7 +971,7 @@
       }
     },
     {
-      "tag": "US_speednode_0037",
+      "tag": "US_speednode_0036",
       "type": "vless",
       "server": "199.232.33.127",
       "server_port": 443,
@@ -1026,7 +1001,7 @@
       }
     },
     {
-      "tag": "US_speednode_0038",
+      "tag": "US_speednode_0037",
       "type": "vless",
       "server": "199.232.32.247",
       "server_port": 443,
@@ -1050,7 +1025,7 @@
       }
     },
     {
-      "tag": "US_speednode_0039",
+      "tag": "US_speednode_0038",
       "type": "vless",
       "server": "199.232.5.79",
       "server_port": 443,
@@ -1070,7 +1045,7 @@
       }
     },
     {
-      "tag": "US_speednode_0040",
+      "tag": "US_speednode_0039",
       "type": "vless",
       "server": "140.248.152.40",
       "server_port": 443,
@@ -1096,31 +1071,7 @@
       }
     },
     {
-      "tag": "US_speednode_0041",
-      "type": "vless",
-      "server": "199.232.8.68",
-      "server_port": 443,
-      "uuid": "80772220-3e7d-5f06-ae29-96672b8fa6df",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "ELiv2RAy-jOiN.cOm",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ELiv2RAy-jOiN.cOm"
-        }
-      }
-    },
-    {
-      "tag": "US_speednode_0042",
+      "tag": "US_speednode_0040",
       "type": "vless",
       "server": "199.232.32.234",
       "server_port": 443,
@@ -1146,7 +1097,7 @@
       }
     },
     {
-      "tag": "US_speednode_0043",
+      "tag": "US_speednode_0041",
       "type": "vless",
       "server": "199.232.8.31",
       "server_port": 443,
@@ -1172,7 +1123,7 @@
       }
     },
     {
-      "tag": "US_speednode_0044",
+      "tag": "US_speednode_0042",
       "type": "vless",
       "server": "199.232.7.154",
       "server_port": 443,
@@ -1198,7 +1149,7 @@
       }
     },
     {
-      "tag": "US_speednode_0045",
+      "tag": "US_speednode_0043",
       "type": "vless",
       "server": "167.82.97.248",
       "server_port": 443,
@@ -1222,7 +1173,7 @@
       }
     },
     {
-      "tag": "US_speednode_0046",
+      "tag": "US_speednode_0044",
       "type": "vless",
       "server": "140.248.152.40",
       "server_port": 443,
@@ -1246,7 +1197,7 @@
       }
     },
     {
-      "tag": "US_speednode_0047",
+      "tag": "US_speednode_0045",
       "type": "vless",
       "server": "199.232.0.21",
       "server_port": 443,
@@ -1272,7 +1223,7 @@
       }
     },
     {
-      "tag": "US_speednode_0048",
+      "tag": "US_speednode_0046",
       "type": "vless",
       "server": "151.101.3.8",
       "server_port": 80,
@@ -1289,24 +1240,7 @@
       }
     },
     {
-      "tag": "US_speednode_0049",
-      "type": "vless",
-      "server": "NUFiLTER.fastly80-2.hosting-ip.com",
-      "server_port": 80,
-      "uuid": "651d818e-4d5c-4180-a295-1db7a8fabc71",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
-        "headers": {
-          "Host": "Berim3arekar.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "US_speednode_0050",
+      "tag": "US_speednode_0047",
       "type": "vless",
       "server": "unlimiteddev.fastly80-3.hosting-ip.com",
       "server_port": 80,
@@ -1323,37 +1257,7 @@
       }
     },
     {
-      "tag": "US_speednode_0051",
-      "type": "vless",
-      "server": "172.66.44.106",
-      "server_port": 443,
-      "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "MabdI.PAGeS.DEv",
-        "insecure": false,
-        "alpn": [
-          "h2",
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "randomized"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/9GqWAHqtHAZpMxkq",
-        "headers": {
-          "Host": "MabdI.PAGeS.DEv"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2560
-      }
-    },
-    {
-      "tag": "US_speednode_0052",
+      "tag": "US_speednode_0048",
       "type": "vless",
       "server": "104.18.12.229",
       "server_port": 8443,
@@ -1373,7 +1277,7 @@
       }
     },
     {
-      "tag": "US_speednode_0053",
+      "tag": "US_speednode_0049",
       "type": "vless",
       "server": "199.232.32.247",
       "server_port": 443,
@@ -1399,7 +1303,7 @@
       }
     },
     {
-      "tag": "US_speednode_0054",
+      "tag": "US_speednode_0050",
       "type": "vless",
       "server": "172.66.45.10",
       "server_port": 443,
@@ -1419,7 +1323,7 @@
       }
     },
     {
-      "tag": "US_speednode_0055",
+      "tag": "US_speednode_0051",
       "type": "vless",
       "server": "199.232.5.66",
       "server_port": 443,
@@ -1443,7 +1347,7 @@
       }
     },
     {
-      "tag": "US_speednode_0056",
+      "tag": "US_speednode_0052",
       "type": "trojan",
       "server": "104.21.92.73",
       "server_port": 443,
@@ -1462,7 +1366,7 @@
       }
     },
     {
-      "tag": "US_speednode_0057",
+      "tag": "US_speednode_0053",
       "type": "vless",
       "server": "104.21.65.53",
       "server_port": 80,
@@ -1477,7 +1381,7 @@
       }
     },
     {
-      "tag": "US_speednode_0058",
+      "tag": "US_speednode_0054",
       "type": "vless",
       "server": "104.19.198.103",
       "server_port": 80,
@@ -1492,7 +1396,7 @@
       }
     },
     {
-      "tag": "US_speednode_0059",
+      "tag": "US_speednode_0055",
       "type": "vless",
       "server": "104.19.198.103",
       "server_port": 80,
