@@ -21,51 +21,33 @@ proxies:
   - {name: CN_speednode_0001, server: jsyd.yeahfast.com, port: 35635, type: ss, cipher: chacha20-ietf-poly1305, password: 75393bce-9f1d-4263-98f0-27bf0f640a77}
   - {name: CN_speednode_0002, server: gyl.58n.net, port: 20309, type: trojan, password: 60849177-99ec-3fba-9615-c8de9e254409, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
   - {name: CN_speednode_0003, server: jsyd.yeahfast.com, port: 35632, type: ss, cipher: chacha20-ietf-poly1305, password: 75393bce-9f1d-4263-98f0-27bf0f640a77}
-  - {name: CN_speednode_0004, server: jsyd.yunnode.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: d3571b43-f940-410c-bf6b-f35d2db19a17}
-  - {name: CN_speednode_0005, server: jsyd.yunnode.win, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: d3571b43-f940-410c-bf6b-f35d2db19a17}
+  - {name: CN_speednode_0004, server: jsyd.yunnode.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: d3571b43-f940-410c-bf6b-f35d2db19a17}
+  - {name: CN_speednode_0005, server: jsyd.yeahfast.com, port: 35637, type: ss, cipher: chacha20-ietf-poly1305, password: 75393bce-9f1d-4263-98f0-27bf0f640a77}
   - {name: CN_speednode_0006, server: jsyd.yunnode.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: d3571b43-f940-410c-bf6b-f35d2db19a17}
-  - {name: CN_speednode_0007, server: jsyd.yeahfast.com, port: 35637, type: ss, cipher: chacha20-ietf-poly1305, password: 75393bce-9f1d-4263-98f0-27bf0f640a77}
-  - {name: CN_speednode_0008, server: jsyd.yunnode.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: d3571b43-f940-410c-bf6b-f35d2db19a17}
+  - {name: CN_speednode_0007, server: jsyd.yunnode.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: d3571b43-f940-410c-bf6b-f35d2db19a17}
+  - {name: CN_speednode_0008, server: jsyd.yunnode.win, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: d3571b43-f940-410c-bf6b-f35d2db19a17}
   - {name: CN_speednode_0009, server: jsyd.yeahfast.com, port: 35630, type: ss, cipher: chacha20-ietf-poly1305, password: 75393bce-9f1d-4263-98f0-27bf0f640a77}
   - {name: CN_speednode_0010, server: jsyd.yeahfast.com, port: 35627, type: ss, cipher: chacha20-ietf-poly1305, password: 75393bce-9f1d-4263-98f0-27bf0f640a77}
-  - {name: CN_speednode_0011, server: gdgs.tarioblink.me, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: fd32e86f-a403-4127-89a5-7f9828205624, udp: true}
-  - {name: CN_speednode_0012, server: 36.151.192.203, port: 44673, type: trojan, password: QwwHvrnN, skip-cert-verify: true, udp: true}
-  - {name: CN_speednode_0013, server: 36.151.192.203, port: 44673, type: trojan, password: QwwHvrnN, sni: 36.151.192.203, skip-cert-verify: true}
-  - {name: CN_speednode_0014, server: gy.58n.net, port: 22741, type: trojan, password: 60849177-99ec-3fba-9615-c8de9e254409, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
-  - {name: CN_speednode_0015, server: gdgs.tarioblink.me, port: 30003, type: ss, cipher: chacha20-ietf-poly1305, password: 671d1256-bf77-446c-9f43-acd17ef2d1c6, udp: true}
+  - {name: CN_speednode_0011, server: 36.151.192.203, port: 44673, type: trojan, password: QwwHvrnN, sni: 36.151.192.203, skip-cert-verify: true}
+  - {name: CN_speednode_0012, server: gdgs.tarioblink.me, port: 30003, type: ss, cipher: chacha20-ietf-poly1305, password: 671d1256-bf77-446c-9f43-acd17ef2d1c6, udp: true}
+  - {name: CN_speednode_0013, server: 36.151.192.203, port: 44673, type: trojan, password: QwwHvrnN, skip-cert-verify: true, udp: true}
+  - {name: CN_speednode_0014, server: jsyd.yunnode.win, port: 31650, type: ss, cipher: chacha20-ietf-poly1305, password: d3571b43-f940-410c-bf6b-f35d2db19a17}
+  - {name: CN_speednode_0015, server: jsyd.yunnode.win, port: 31642, type: ss, cipher: chacha20-ietf-poly1305, password: d3571b43-f940-410c-bf6b-f35d2db19a17}
   - {name: CN_speednode_0016, server: jsyd.yeahfast.com, port: 35532, type: ss, cipher: chacha20-ietf-poly1305, password: 75393bce-9f1d-4263-98f0-27bf0f640a77}
-  - {name: CN_speednode_0017, server: jsyd.yunnode.win, port: 31650, type: ss, cipher: chacha20-ietf-poly1305, password: d3571b43-f940-410c-bf6b-f35d2db19a17}
-  - {name: CN_speednode_0018, server: gy.58n.net, port: 24603, type: trojan, password: 60849177-99ec-3fba-9615-c8de9e254409, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
-  - {name: CN_speednode_0019, server: gy.58n.net, port: 20301, type: trojan, password: 60849177-99ec-3fba-9615-c8de9e254409, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
-  - {name: CN_speednode_0020, server: jsyd.yunnode.win, port: 31642, type: ss, cipher: chacha20-ietf-poly1305, password: d3571b43-f940-410c-bf6b-f35d2db19a17}
-  - {name: CN_speednode_0021, server: gy.58n.net, port: 20307, type: trojan, password: 60849177-99ec-3fba-9615-c8de9e254409, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
-  - {name: CN_speednode_0022, server: jsyd.yunnode.win, port: 31648, type: ss, cipher: chacha20-ietf-poly1305, password: d3571b43-f940-410c-bf6b-f35d2db19a17}
-  - {name: CN_speednode_0023, server: gy.58n.net, port: 41767, type: trojan, password: 60849177-99ec-3fba-9615-c8de9e254409, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
-  - {name: CN_speednode_0024, server: gy.58n.net, port: 45168, type: trojan, password: 60849177-99ec-3fba-9615-c8de9e254409, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-  - {name: CN_speednode_0025, server: gy.58n.net, port: 28678, type: trojan, password: 60849177-99ec-3fba-9615-c8de9e254409, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
-  - {name: CN_speednode_0026, server: gy.58n.net, port: 50355, type: trojan, password: 60849177-99ec-3fba-9615-c8de9e254409, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
-  - {name: CN_speednode_0027, server: gy.58n.net, port: 20296, type: trojan, password: 60849177-99ec-3fba-9615-c8de9e254409, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-  - {name: CN_speednode_0028, server: gy.58n.net, port: 21970, type: trojan, password: 60849177-99ec-3fba-9615-c8de9e254409, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
-  - {name: CN_speednode_0029, server: gy.58n.net, port: 16895, type: trojan, password: 60849177-99ec-3fba-9615-c8de9e254409, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
-  - {name: CN_speednode_0030, server: gy.58n.net, port: 30767, type: trojan, password: 60849177-99ec-3fba-9615-c8de9e254409, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-  - {name: CN_speednode_0031, server: gy.58n.net, port: 20308, type: trojan, password: 60849177-99ec-3fba-9615-c8de9e254409, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-  - {name: DE_speednode_0032, server: 91.107.248.14, port: 13239, type: vless, uuid: bf61aa2e-5b05-478e-8e1e-453d27c52107, tls: false, skip-cert-verify: false, network: tcp}
-  - {name: JP_speednode_0033, server: 18.179.44.127, port: 443, type: trojan, password: dfe1ef9b-e590-3b93-816a-e58a908bce99, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-  - {name: US_speednode_0034, server: 103.136.185.28, port: 3516, type: trojan, password: dfe1ef9b-e590-3b93-816a-e58a908bce99, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
-  - {name: US_speednode_0035, server: 150.241.68.171, port: 24064, type: ss, cipher: chacha20-ietf-poly1305, password: LcEDAhRkNrjwB16SvN5d7fAmpswtGTAexB1qdzmeFrg=}
-  - {name: US_speednode_0036, server: 172.64.167.29, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: c3.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: US_speednode_0037, server: 172.64.167.8, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: c3.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: US_speednode_0038, server: 172.64.167.5, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: c3.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: US_speednode_0039, server: 172.64.167.22, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: c3.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: US_speednode_0040, server: 172.64.166.8, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: c3.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: US_speednode_0041, server: 172.64.166.28, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: c3.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: US_speednode_0042, server: 172.66.44.237, port: 443, type: vless, uuid: 76434743-2a94-4cfd-8170-8e3971419b36, tls: true, skip-cert-verify: false, servername: pardazeshvpn-tg85.pages.dev, network: ws, ws-opts: {path: "/Telegram:", headers: {Host: pardazeshvpn-tg85.pages.dev}}}
-  - {name: US_speednode_0043, server: 172.64.167.44, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: c3.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: US_speednode_0044, server: lix523052.filegear-sg.me, port: 443, type: vless, uuid: e6259fa3-fb06-4f9b-ad3f-bd6250b837f6, tls: true, skip-cert-verify: false, servername: lix523052.filegear-sg.me, network: ws, ws-opts: {path: /}}
-  - {name: US_speednode_0045, server: 172.66.47.19, port: 443, type: vless, uuid: 76434743-2a94-4cfd-8170-8e3971419b36, tls: true, skip-cert-verify: false, servername: pardazeshvpn-tg85.pages.dev, network: ws, ws-opts: {path: "/Telegram:", headers: {Host: pardazeshvpn-tg85.pages.dev}}}
-  - {name: US_speednode_0046, server: 104.17.8.124, port: 443, type: trojan, password: WOeXShhJpL, sni: 10jzus.zdzdzd.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: /juzigongyi, headers: {Host: 10jzus.zdzdzd.xyz}}}
-  - {name: US_speednode_0047, server: 172.64.198.249, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: c3.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: US_speednode_0048, server: 172.67.232.40, port: 443, type: trojan, password: WOeXShhJpL, sni: 10jzus.zdzdzd.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: /juzigongyi, headers: {Host: 10jzus.zdzdzd.xyz}}}
+  - {name: CN_speednode_0017, server: jsyd.yunnode.win, port: 31648, type: ss, cipher: chacha20-ietf-poly1305, password: d3571b43-f940-410c-bf6b-f35d2db19a17}
+  - {name: DE_speednode_0018, server: 91.107.248.14, port: 13239, type: vless, uuid: bf61aa2e-5b05-478e-8e1e-453d27c52107, tls: false, skip-cert-verify: false, network: tcp}
+  - {name: JP_speednode_0019, server: 18.179.44.127, port: 443, type: trojan, password: dfe1ef9b-e590-3b93-816a-e58a908bce99, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+  - {name: US_speednode_0020, server: 103.136.185.28, port: 3516, type: trojan, password: dfe1ef9b-e590-3b93-816a-e58a908bce99, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+  - {name: US_speednode_0021, server: 172.66.44.237, port: 443, type: vless, uuid: 76434743-2a94-4cfd-8170-8e3971419b36, tls: true, skip-cert-verify: false, servername: pardazeshvpn-tg85.pages.dev, network: ws, ws-opts: {path: "/Telegram:", headers: {Host: pardazeshvpn-tg85.pages.dev}}}
+  - {name: US_speednode_0022, server: 172.64.167.29, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: c3.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: US_speednode_0023, server: lix523052.filegear-sg.me, port: 443, type: vless, uuid: e6259fa3-fb06-4f9b-ad3f-bd6250b837f6, tls: true, skip-cert-verify: false, servername: lix523052.filegear-sg.me, network: ws, ws-opts: {path: /}}
+  - {name: US_speednode_0024, server: 172.64.166.28, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: c3.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: US_speednode_0025, server: 172.64.198.249, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: c3.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: US_speednode_0026, server: 172.66.47.19, port: 443, type: vless, uuid: 76434743-2a94-4cfd-8170-8e3971419b36, tls: true, skip-cert-verify: false, servername: pardazeshvpn-tg85.pages.dev, network: ws, ws-opts: {path: "/Telegram:", headers: {Host: pardazeshvpn-tg85.pages.dev}}}
+  - {name: US_speednode_0027, server: 172.64.167.22, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: c3.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: US_speednode_0028, server: 104.17.8.124, port: 443, type: trojan, password: WOeXShhJpL, sni: 10jzus.zdzdzd.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: /juzigongyi, headers: {Host: 10jzus.zdzdzd.xyz}}}
+  - {name: US_speednode_0029, server: 172.67.232.40, port: 443, type: trojan, password: WOeXShhJpL, sni: 10jzus.zdzdzd.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: /juzigongyi, headers: {Host: 10jzus.zdzdzd.xyz}}}
+  - {name: US_speednode_0030, server: 172.64.167.44, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: c3.6016725.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
 proxy-groups:
 - name: ⭕ proxinode
   type: select
@@ -88,37 +70,19 @@ proxy-groups:
   - CN_speednode_0015
   - CN_speednode_0016
   - CN_speednode_0017
-  - CN_speednode_0018
-  - CN_speednode_0019
-  - CN_speednode_0020
-  - CN_speednode_0021
-  - CN_speednode_0022
-  - CN_speednode_0023
-  - CN_speednode_0024
-  - CN_speednode_0025
-  - CN_speednode_0026
-  - CN_speednode_0027
-  - CN_speednode_0028
-  - CN_speednode_0029
-  - CN_speednode_0030
-  - CN_speednode_0031
-  - DE_speednode_0032
-  - JP_speednode_0033
-  - US_speednode_0034
-  - US_speednode_0035
-  - US_speednode_0036
-  - US_speednode_0037
-  - US_speednode_0038
-  - US_speednode_0039
-  - US_speednode_0040
-  - US_speednode_0041
-  - US_speednode_0042
-  - US_speednode_0043
-  - US_speednode_0044
-  - US_speednode_0045
-  - US_speednode_0046
-  - US_speednode_0047
-  - US_speednode_0048
+  - DE_speednode_0018
+  - JP_speednode_0019
+  - US_speednode_0020
+  - US_speednode_0021
+  - US_speednode_0022
+  - US_speednode_0023
+  - US_speednode_0024
+  - US_speednode_0025
+  - US_speednode_0026
+  - US_speednode_0027
+  - US_speednode_0028
+  - US_speednode_0029
+  - US_speednode_0030
 - name: ♻️ automatic
   type: url-test
   proxies:
@@ -139,37 +103,19 @@ proxy-groups:
   - CN_speednode_0015
   - CN_speednode_0016
   - CN_speednode_0017
-  - CN_speednode_0018
-  - CN_speednode_0019
-  - CN_speednode_0020
-  - CN_speednode_0021
-  - CN_speednode_0022
-  - CN_speednode_0023
-  - CN_speednode_0024
-  - CN_speednode_0025
-  - CN_speednode_0026
-  - CN_speednode_0027
-  - CN_speednode_0028
-  - CN_speednode_0029
-  - CN_speednode_0030
-  - CN_speednode_0031
-  - DE_speednode_0032
-  - JP_speednode_0033
-  - US_speednode_0034
-  - US_speednode_0035
-  - US_speednode_0036
-  - US_speednode_0037
-  - US_speednode_0038
-  - US_speednode_0039
-  - US_speednode_0040
-  - US_speednode_0041
-  - US_speednode_0042
-  - US_speednode_0043
-  - US_speednode_0044
-  - US_speednode_0045
-  - US_speednode_0046
-  - US_speednode_0047
-  - US_speednode_0048
+  - DE_speednode_0018
+  - JP_speednode_0019
+  - US_speednode_0020
+  - US_speednode_0021
+  - US_speednode_0022
+  - US_speednode_0023
+  - US_speednode_0024
+  - US_speednode_0025
+  - US_speednode_0026
+  - US_speednode_0027
+  - US_speednode_0028
+  - US_speednode_0029
+  - US_speednode_0030
   url: https://www.google.com/favicon.ico
   interval: 300
 rules:

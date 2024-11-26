@@ -103,37 +103,19 @@
         "CN_speednode_0015",
         "CN_speednode_0016",
         "CN_speednode_0017",
-        "CN_speednode_0018",
-        "CN_speednode_0019",
-        "CN_speednode_0020",
-        "CN_speednode_0021",
-        "CN_speednode_0022",
-        "CN_speednode_0023",
-        "CN_speednode_0024",
-        "CN_speednode_0025",
-        "CN_speednode_0026",
-        "CN_speednode_0027",
-        "CN_speednode_0028",
-        "CN_speednode_0029",
-        "CN_speednode_0030",
-        "CN_speednode_0031",
-        "DE_speednode_0032",
-        "JP_speednode_0033",
-        "US_speednode_0034",
-        "US_speednode_0035",
-        "US_speednode_0036",
-        "US_speednode_0037",
-        "US_speednode_0038",
-        "US_speednode_0039",
-        "US_speednode_0040",
-        "US_speednode_0041",
-        "US_speednode_0042",
-        "US_speednode_0043",
-        "US_speednode_0044",
-        "US_speednode_0045",
-        "US_speednode_0046",
-        "US_speednode_0047",
-        "US_speednode_0048"
+        "DE_speednode_0018",
+        "JP_speednode_0019",
+        "US_speednode_0020",
+        "US_speednode_0021",
+        "US_speednode_0022",
+        "US_speednode_0023",
+        "US_speednode_0024",
+        "US_speednode_0025",
+        "US_speednode_0026",
+        "US_speednode_0027",
+        "US_speednode_0028",
+        "US_speednode_0029",
+        "US_speednode_0030"
       ]
     },
     {
@@ -157,37 +139,19 @@
         "CN_speednode_0015",
         "CN_speednode_0016",
         "CN_speednode_0017",
-        "CN_speednode_0018",
-        "CN_speednode_0019",
-        "CN_speednode_0020",
-        "CN_speednode_0021",
-        "CN_speednode_0022",
-        "CN_speednode_0023",
-        "CN_speednode_0024",
-        "CN_speednode_0025",
-        "CN_speednode_0026",
-        "CN_speednode_0027",
-        "CN_speednode_0028",
-        "CN_speednode_0029",
-        "CN_speednode_0030",
-        "CN_speednode_0031",
-        "DE_speednode_0032",
-        "JP_speednode_0033",
-        "US_speednode_0034",
-        "US_speednode_0035",
-        "US_speednode_0036",
-        "US_speednode_0037",
-        "US_speednode_0038",
-        "US_speednode_0039",
-        "US_speednode_0040",
-        "US_speednode_0041",
-        "US_speednode_0042",
-        "US_speednode_0043",
-        "US_speednode_0044",
-        "US_speednode_0045",
-        "US_speednode_0046",
-        "US_speednode_0047",
-        "US_speednode_0048"
+        "DE_speednode_0018",
+        "JP_speednode_0019",
+        "US_speednode_0020",
+        "US_speednode_0021",
+        "US_speednode_0022",
+        "US_speednode_0023",
+        "US_speednode_0024",
+        "US_speednode_0025",
+        "US_speednode_0026",
+        "US_speednode_0027",
+        "US_speednode_0028",
+        "US_speednode_0029",
+        "US_speednode_0030"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -237,17 +201,17 @@
       "tag": "CN_speednode_0004",
       "type": "shadowsocks",
       "server": "jsyd.yunnode.win",
-      "server_port": 31632,
+      "server_port": 31640,
       "method": "chacha20-ietf-poly1305",
       "password": "d3571b43-f940-410c-bf6b-f35d2db19a17"
     },
     {
       "tag": "CN_speednode_0005",
       "type": "shadowsocks",
-      "server": "jsyd.yunnode.win",
-      "server_port": 31672,
+      "server": "jsyd.yeahfast.com",
+      "server_port": 35637,
       "method": "chacha20-ietf-poly1305",
-      "password": "d3571b43-f940-410c-bf6b-f35d2db19a17"
+      "password": "75393bce-9f1d-4263-98f0-27bf0f640a77"
     },
     {
       "tag": "CN_speednode_0006",
@@ -260,16 +224,16 @@
     {
       "tag": "CN_speednode_0007",
       "type": "shadowsocks",
-      "server": "jsyd.yeahfast.com",
-      "server_port": 35637,
+      "server": "jsyd.yunnode.win",
+      "server_port": 31632,
       "method": "chacha20-ietf-poly1305",
-      "password": "75393bce-9f1d-4263-98f0-27bf0f640a77"
+      "password": "d3571b43-f940-410c-bf6b-f35d2db19a17"
     },
     {
       "tag": "CN_speednode_0008",
       "type": "shadowsocks",
       "server": "jsyd.yunnode.win",
-      "server_port": 31640,
+      "server_port": 31672,
       "method": "chacha20-ietf-poly1305",
       "password": "d3571b43-f940-410c-bf6b-f35d2db19a17"
     },
@@ -291,14 +255,6 @@
     },
     {
       "tag": "CN_speednode_0011",
-      "type": "shadowsocks",
-      "server": "gdgs.tarioblink.me",
-      "server_port": 30001,
-      "method": "chacha20-ietf-poly1305",
-      "password": "fd32e86f-a403-4127-89a5-7f9828205624"
-    },
-    {
-      "tag": "CN_speednode_0012",
       "type": "trojan",
       "server": "36.151.192.203",
       "server_port": 44673,
@@ -308,6 +264,14 @@
         "server_name": "36.151.192.203",
         "insecure": true
       }
+    },
+    {
+      "tag": "CN_speednode_0012",
+      "type": "shadowsocks",
+      "server": "gdgs.tarioblink.me",
+      "server_port": 30003,
+      "method": "chacha20-ietf-poly1305",
+      "password": "671d1256-bf77-446c-9f43-acd17ef2d1c6"
     },
     {
       "tag": "CN_speednode_0013",
@@ -323,23 +287,19 @@
     },
     {
       "tag": "CN_speednode_0014",
-      "type": "trojan",
-      "server": "gy.58n.net",
-      "server_port": 22741,
-      "password": "60849177-99ec-3fba-9615-c8de9e254409",
-      "tls": {
-        "enabled": true,
-        "server_name": "dufu.hongkongnode.top",
-        "insecure": true
-      }
+      "type": "shadowsocks",
+      "server": "jsyd.yunnode.win",
+      "server_port": 31650,
+      "method": "chacha20-ietf-poly1305",
+      "password": "d3571b43-f940-410c-bf6b-f35d2db19a17"
     },
     {
       "tag": "CN_speednode_0015",
       "type": "shadowsocks",
-      "server": "gdgs.tarioblink.me",
-      "server_port": 30003,
+      "server": "jsyd.yunnode.win",
+      "server_port": 31642,
       "method": "chacha20-ietf-poly1305",
-      "password": "671d1256-bf77-446c-9f43-acd17ef2d1c6"
+      "password": "d3571b43-f940-410c-bf6b-f35d2db19a17"
     },
     {
       "tag": "CN_speednode_0016",
@@ -353,172 +313,12 @@
       "tag": "CN_speednode_0017",
       "type": "shadowsocks",
       "server": "jsyd.yunnode.win",
-      "server_port": 31650,
-      "method": "chacha20-ietf-poly1305",
-      "password": "d3571b43-f940-410c-bf6b-f35d2db19a17"
-    },
-    {
-      "tag": "CN_speednode_0018",
-      "type": "trojan",
-      "server": "gy.58n.net",
-      "server_port": 24603,
-      "password": "60849177-99ec-3fba-9615-c8de9e254409",
-      "tls": {
-        "enabled": true,
-        "server_name": "z259.hongkongnode.top",
-        "insecure": true
-      }
-    },
-    {
-      "tag": "CN_speednode_0019",
-      "type": "trojan",
-      "server": "gy.58n.net",
-      "server_port": 20301,
-      "password": "60849177-99ec-3fba-9615-c8de9e254409",
-      "tls": {
-        "enabled": true,
-        "server_name": "z301.hongkongnode.top",
-        "insecure": true
-      }
-    },
-    {
-      "tag": "CN_speednode_0020",
-      "type": "shadowsocks",
-      "server": "jsyd.yunnode.win",
-      "server_port": 31642,
-      "method": "chacha20-ietf-poly1305",
-      "password": "d3571b43-f940-410c-bf6b-f35d2db19a17"
-    },
-    {
-      "tag": "CN_speednode_0021",
-      "type": "trojan",
-      "server": "gy.58n.net",
-      "server_port": 20307,
-      "password": "60849177-99ec-3fba-9615-c8de9e254409",
-      "tls": {
-        "enabled": true,
-        "server_name": "z307.hongkongnode.top",
-        "insecure": true
-      }
-    },
-    {
-      "tag": "CN_speednode_0022",
-      "type": "shadowsocks",
-      "server": "jsyd.yunnode.win",
       "server_port": 31648,
       "method": "chacha20-ietf-poly1305",
       "password": "d3571b43-f940-410c-bf6b-f35d2db19a17"
     },
     {
-      "tag": "CN_speednode_0023",
-      "type": "trojan",
-      "server": "gy.58n.net",
-      "server_port": 41767,
-      "password": "60849177-99ec-3fba-9615-c8de9e254409",
-      "tls": {
-        "enabled": true,
-        "server_name": "x114.flybar.work",
-        "insecure": true
-      }
-    },
-    {
-      "tag": "CN_speednode_0024",
-      "type": "trojan",
-      "server": "gy.58n.net",
-      "server_port": 45168,
-      "password": "60849177-99ec-3fba-9615-c8de9e254409",
-      "tls": {
-        "enabled": true,
-        "server_name": "z263.hongkongnode.top",
-        "insecure": true
-      }
-    },
-    {
-      "tag": "CN_speednode_0025",
-      "type": "trojan",
-      "server": "gy.58n.net",
-      "server_port": 28678,
-      "password": "60849177-99ec-3fba-9615-c8de9e254409",
-      "tls": {
-        "enabled": true,
-        "server_name": "z143.hongkongnode.top",
-        "insecure": true
-      }
-    },
-    {
-      "tag": "CN_speednode_0026",
-      "type": "trojan",
-      "server": "gy.58n.net",
-      "server_port": 50355,
-      "password": "60849177-99ec-3fba-9615-c8de9e254409",
-      "tls": {
-        "enabled": true,
-        "server_name": "z264.hongkongnode.top",
-        "insecure": true
-      }
-    },
-    {
-      "tag": "CN_speednode_0027",
-      "type": "trojan",
-      "server": "gy.58n.net",
-      "server_port": 20296,
-      "password": "60849177-99ec-3fba-9615-c8de9e254409",
-      "tls": {
-        "enabled": true,
-        "server_name": "z296.hongkongnode.top",
-        "insecure": true
-      }
-    },
-    {
-      "tag": "CN_speednode_0028",
-      "type": "trojan",
-      "server": "gy.58n.net",
-      "server_port": 21970,
-      "password": "60849177-99ec-3fba-9615-c8de9e254409",
-      "tls": {
-        "enabled": true,
-        "server_name": "x41.flybar.work",
-        "insecure": true
-      }
-    },
-    {
-      "tag": "CN_speednode_0029",
-      "type": "trojan",
-      "server": "gy.58n.net",
-      "server_port": 16895,
-      "password": "60849177-99ec-3fba-9615-c8de9e254409",
-      "tls": {
-        "enabled": true,
-        "server_name": "x40.flybar.work",
-        "insecure": true
-      }
-    },
-    {
-      "tag": "CN_speednode_0030",
-      "type": "trojan",
-      "server": "gy.58n.net",
-      "server_port": 30767,
-      "password": "60849177-99ec-3fba-9615-c8de9e254409",
-      "tls": {
-        "enabled": true,
-        "server_name": "z61.hongkongnode.top",
-        "insecure": true
-      }
-    },
-    {
-      "tag": "CN_speednode_0031",
-      "type": "trojan",
-      "server": "gy.58n.net",
-      "server_port": 20308,
-      "password": "60849177-99ec-3fba-9615-c8de9e254409",
-      "tls": {
-        "enabled": true,
-        "server_name": "z308.hongkongnode.top",
-        "insecure": true
-      }
-    },
-    {
-      "tag": "DE_speednode_0032",
+      "tag": "DE_speednode_0018",
       "type": "vless",
       "server": "91.107.248.14",
       "server_port": 13239,
@@ -526,7 +326,7 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "JP_speednode_0033",
+      "tag": "JP_speednode_0019",
       "type": "trojan",
       "server": "18.179.44.127",
       "server_port": 443,
@@ -538,7 +338,7 @@
       }
     },
     {
-      "tag": "US_speednode_0034",
+      "tag": "US_speednode_0020",
       "type": "trojan",
       "server": "103.136.185.28",
       "server_port": 3516,
@@ -550,111 +350,7 @@
       }
     },
     {
-      "tag": "US_speednode_0035",
-      "type": "shadowsocks",
-      "server": "150.241.68.171",
-      "server_port": 24064,
-      "method": "chacha20-ietf-poly1305",
-      "password": "LcEDAhRkNrjwB16SvN5d7fAmpswtGTAexB1qdzmeFrg="
-    },
-    {
-      "tag": "US_speednode_0036",
-      "type": "vmess",
-      "server": "172.64.167.29",
-      "server_port": 2095,
-      "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
-      "security": "auto",
-      "alter_id": 0,
-      "transport": {
-        "type": "ws",
-        "path": "/github.com/Alvin9999",
-        "headers": {
-          "Host": "c3.6016725.xyz"
-        }
-      }
-    },
-    {
-      "tag": "US_speednode_0037",
-      "type": "vmess",
-      "server": "172.64.167.8",
-      "server_port": 2095,
-      "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
-      "security": "auto",
-      "alter_id": 0,
-      "transport": {
-        "type": "ws",
-        "path": "/github.com/Alvin9999",
-        "headers": {
-          "Host": "c3.6016725.xyz"
-        }
-      }
-    },
-    {
-      "tag": "US_speednode_0038",
-      "type": "vmess",
-      "server": "172.64.167.5",
-      "server_port": 2095,
-      "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
-      "security": "auto",
-      "alter_id": 0,
-      "transport": {
-        "type": "ws",
-        "path": "/github.com/Alvin9999",
-        "headers": {
-          "Host": "c3.6016725.xyz"
-        }
-      }
-    },
-    {
-      "tag": "US_speednode_0039",
-      "type": "vmess",
-      "server": "172.64.167.22",
-      "server_port": 2095,
-      "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
-      "security": "auto",
-      "alter_id": 0,
-      "transport": {
-        "type": "ws",
-        "path": "/github.com/Alvin9999",
-        "headers": {
-          "Host": "c3.6016725.xyz"
-        }
-      }
-    },
-    {
-      "tag": "US_speednode_0040",
-      "type": "vmess",
-      "server": "172.64.166.8",
-      "server_port": 2095,
-      "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
-      "security": "auto",
-      "alter_id": 0,
-      "transport": {
-        "type": "ws",
-        "path": "/github.com/Alvin9999",
-        "headers": {
-          "Host": "c3.6016725.xyz"
-        }
-      }
-    },
-    {
-      "tag": "US_speednode_0041",
-      "type": "vmess",
-      "server": "172.64.166.28",
-      "server_port": 2095,
-      "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
-      "security": "auto",
-      "alter_id": 0,
-      "transport": {
-        "type": "ws",
-        "path": "/github.com/Alvin9999",
-        "headers": {
-          "Host": "c3.6016725.xyz"
-        }
-      }
-    },
-    {
-      "tag": "US_speednode_0042",
+      "tag": "US_speednode_0021",
       "type": "vless",
       "server": "172.66.44.237",
       "server_port": 443,
@@ -674,9 +370,9 @@
       }
     },
     {
-      "tag": "US_speednode_0043",
+      "tag": "US_speednode_0022",
       "type": "vmess",
-      "server": "172.64.167.44",
+      "server": "172.64.167.29",
       "server_port": 2095,
       "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
       "security": "auto",
@@ -690,7 +386,7 @@
       }
     },
     {
-      "tag": "US_speednode_0044",
+      "tag": "US_speednode_0023",
       "type": "vless",
       "server": "lix523052.filegear-sg.me",
       "server_port": 443,
@@ -707,7 +403,39 @@
       }
     },
     {
-      "tag": "US_speednode_0045",
+      "tag": "US_speednode_0024",
+      "type": "vmess",
+      "server": "172.64.166.28",
+      "server_port": 2095,
+      "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "c3.6016725.xyz"
+        }
+      }
+    },
+    {
+      "tag": "US_speednode_0025",
+      "type": "vmess",
+      "server": "172.64.198.249",
+      "server_port": 2095,
+      "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "c3.6016725.xyz"
+        }
+      }
+    },
+    {
+      "tag": "US_speednode_0026",
       "type": "vless",
       "server": "172.66.47.19",
       "server_port": 443,
@@ -727,7 +455,23 @@
       }
     },
     {
-      "tag": "US_speednode_0046",
+      "tag": "US_speednode_0027",
+      "type": "vmess",
+      "server": "172.64.167.22",
+      "server_port": 2095,
+      "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "c3.6016725.xyz"
+        }
+      }
+    },
+    {
+      "tag": "US_speednode_0028",
       "type": "trojan",
       "server": "104.17.8.124",
       "server_port": 443,
@@ -746,23 +490,7 @@
       }
     },
     {
-      "tag": "US_speednode_0047",
-      "type": "vmess",
-      "server": "172.64.198.249",
-      "server_port": 2095,
-      "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
-      "security": "auto",
-      "alter_id": 0,
-      "transport": {
-        "type": "ws",
-        "path": "/github.com/Alvin9999",
-        "headers": {
-          "Host": "c3.6016725.xyz"
-        }
-      }
-    },
-    {
-      "tag": "US_speednode_0048",
+      "tag": "US_speednode_0029",
       "type": "trojan",
       "server": "172.67.232.40",
       "server_port": 443,
@@ -777,6 +505,22 @@
         "path": "/juzigongyi",
         "headers": {
           "Host": "10jzus.zdzdzd.xyz"
+        }
+      }
+    },
+    {
+      "tag": "US_speednode_0030",
+      "type": "vmess",
+      "server": "172.64.167.44",
+      "server_port": 2095,
+      "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "c3.6016725.xyz"
         }
       }
     }
